@@ -3,8 +3,6 @@ library(readxl)
 library(vcd)
 library(ggpubr)
 
-# read_xlsx("/Users/Primahadi/Documents/research/2024-01-09-balinese-passive/data-first-and-second-batch-20240209.xlsx", sheet = 1) |> colnames() -> sh1col
-# read_xlsx("/Users/Primahadi/Documents/research/2024-01-09-balinese-passive/data-first-and-second-batch-20240209.xlsx", sheet = 2) |> colnames() -> sh2col
 # # exclude these columns from sheet 2 that do not match with columns in sheet 1
 # excluded_column_from_sheet2 <- setdiff(sh2col, sh1col)
 
