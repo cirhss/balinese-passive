@@ -1,96 +1,2281 @@
-Timestamp	Email Address	Nama Lengkap	NIM	Program Studi	1.       Ia nyelap katanjung teken I Nyoman	2.       Ia nyelap tangjunga teken I Nyoman	3.       Ia tusing katanjung kuwala tanjunga teken I Nyoman 	4.       Ia nyelap kalempag teken I Made	5.       Ia nyelap lempaga teken I Made	6.       Ia tusing kalempag kewala lempaga teken I Made	7.       Da Nyoman lempaga	8.       Da Nyoman kalempag	9.       Da Made tanjunga	10.       Da Made katanjung	11.       Luune kasampatang makelone limang menit	12.       Luune sampatanga makelone limang menit 	13.       Anake ento katinjak makelone duang detik	14.       Anake ento tinjaka makelone duang detik	15.       Anake ento katanjung makelone duang detik	16.       Anake ento tanjunga makelone duang detik	17.       Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	18.       Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	19.       Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	20.       Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	21.       Kuaca nika tumbasa antuk ida	22.       Kuaca nika katumbas antuk ida	23.       Montor nika kaadol antuk ida	24.       Montor nika adola antuk ida	Asal Universitas
-28/03/2024 18:57:44	ditadwiastikasari@gmail.com	NI KADEK DITA DWI ASTIKA SARI	2001521018	Sastra Bali	5	4	4	3	5	4	5	3	5	2	2	4	3	3	4	3	3	3	4	2	4	4	3	4	
-28/03/2024 19:03:34	dinda.aryantha006@student.unud.ac.id	Kadek Dinda Aryantha Sarin	2101521006	Sastra Bali	2	3	4	1	3	5	3	1	3	1	1	3	2	3	4	5	4	3	4	1	1	3	3	1	
-28/03/2024 19:03:45	candrakristina11@gmail.com	Ni Luh Made Candra Kristina Yanti	2001521019	Sastra Bali	2	5	2	2	4	4	5	2	4	2	2	4	2	4	2	4	4	4	3	2	1	4	4	3	
-28/03/2024 19:07:34	iwayangiriasmara@gmail.com	I Wayan Giri Asmara 	2201521001	Sastra Bali	4	5	2	4	4	2	4	2	5	2	2	3	3	3	3	4	5	3	5	3	3	4	4	3	
-28/03/2024 19:11:43	rukmanaayuputri@gmail.com	Ni Ketut Ayu Putri Rukmana 	2101521013	Sastra Bali	3	4	4	3	3	4	4	3	4	3	3	4	4	3	4	3	3	4	4	3	2	4	3	4	
-28/03/2024 19:12:36	desakputri.dp2016@gmail.com	Desak Putu Putri Ayu Maharani	2101521016	Sastra Bali	4	3	4	3	4	4	3	2	4	2	2	3	2	3	2	3	3	2	3	2	1	4	1	3	
-28/03/2024 19:12:58	rajiniputri51@gmail.com	Ni Luh Putu Rajini Putri	2001521014	Sastra Bali	1	5	5	1	5	5	5	1	5	1	1	5	1	5	1	5	5	1	5	1	1	5	1	5	
-28/03/2024 19:15:44	winasikuning@gmail.com	Ni Kadek Wina Savitri	2101521029	Sastra Bali	1	5	2	1	5	2	5	1	5	1	5	3	5	3	5	3	5	1	5	1	1	5	5	1	
-28/03/2024 19:29:36	ninyomansujaniartaasih@gmail.com	Ni Nyoman Sujani Arta Asih	2001521017	Sastra Bali	5	5	1	5	5	1	5	1	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	1	
-28/03/2024 19:52:17	kmrioseptiapalguna@gmail.com	I Komang Rio Septia Palguna	2201521002	Sastra Bali	2	4	5	2	5	3	5	1	5	1	4	3	2	4	2	4	5	4	5	4	3	4	4	2	
-28/03/2024 19:58:58	aaistrigaudia23@gmail.com	Anak Agung Istri Gaudia Anjeli 	2001521033	Sastra Bali	5	5	3	5	5	2	3	1	4	1	1	4	1	4	1	4	5	3	5	3	5	4	4	5	
-28/03/2024 20:04:34	dianagustina2003@gmail.com	Putu Dian Agustina 	2101521030	Sastra Bali	1	5	4	1	5	5	4	1	4	1	4	2	2	4	2	4	5	2	5	2	1	4	4	2	
-28/03/2024 20:06:57	wiswakarma80@gmail.com	I Made Wiswakarma Prana Arta	2001521015	Sastra Bali	3	4	3	4	3	3	5	2	5	2	3	4	3	4	3	4	4	5	5	4	4	4	3	3	
-28/03/2024 20:23:35	dayuwidiantari14@gmail.com	Ida Ayu Made Widiantari	2001521004	Sastra Bali	2	5	3	2	5	4	4	2	5	2	3	4	3	4	3	4	4	3	4	3	2	3	3	3	
-28/03/2024 20:34:07	mangmahendr@gmail.com	Komang Mahendra Adi Putra	2201521014	Sastra Jawa Kuno	3	4	5	3	4	5	3	3	4	3	3	4	3	4	4	4	5	4	4	4	5	5	4	5	
-28/03/2024 20:39:02	ganggamanuaba0611@gmail.com	Ida Bagus Gangga Manu Manuaba	2001531006	Sastra Jawa Kuno	2	3	4	1	2	4	5	1	5	1	2	3	2	3	2	4	5	3	5	3	3	4	4	5	
-28/03/2024 20:40:29	hermawan.2201531015@student.unud.ac.id	I Putu Gede Wahyu Hermawan	2201531015	Sastra Jawa Kuno	2	5	4	4	5	5	5	2	5	2	4	5	4	5	2	5	5	4	5	4	5	4	4	5	
-28/03/2024 20:49:28	triu36861@gmail.com	Ni Komang Tri Utami	2001521006	Sastra Bali	3	5	4	3	4	5	3	3	5	1	2	3	1	1	3	5	4	4	4	5	3	5	2	2	
-28/03/2024 20:50:16	iaceningginada@gmail.com	Ida Ayu Putu Cening Ginada 	2301531004	Sastra Jawa Kuno	3	4	1	3	2	1	4	1	4	1	3	2	2	3	2	3	4	2	4	2	3	3	2	3	
-28/03/2024 20:52:41	gusdesuwamba@gmail.com	Ida Bagus Gede Putra Suwamba 	2101531001	Sastra Jawa Kuno	1	3	2	1	3	2	3	1	3	1	1	2	3	2	2	3	3	2	3	2	2	3	3	2	
-28/03/2024 20:58:15	ayungurahintanparamitha@gmail.com	Anak Agung Ayu Ngurah Intan Paramitha 	2101521003	Sastra Bali	3	2	3	4	4	4	4	1	3	1	3	3	3	4	4	3	3	3	4	2	5	3	4	3	
-28/03/2024 21:02:15	ayulaksmiidewi@gmail.com	I GUSTI AGUNG AYU LAKSMI DEWI 	2001531003	Sastra Jawa Kuno	1	4	2	1	4	2	5	1	5	1	2	4	1	4	1	4	5	1	5	1	5	2	2	5	
-28/03/2024 21:03:42	psuastika26@gmail.com	I Made Suastika	2001531002	Sastra Jawa Kuno	3	3	4	2	3	4	4	1	4	2	3	4	3	4	3	4	5	5	5	5	3	5	5	3	
-28/03/2024 21:09:12	diahsavitri68@gmail.com	Putu Diah Savitri	2001531004	Sastra Jawa Kuno	2	5	5	2	5	4	5	1	5	1	3	5	4	5	1	4	5	4	5	2	3	5	4	5	
-28/03/2024 21:15:15	sukmapradnya1@gmail.com	Ni Ketut Sukma Pradnyawati	2101531006	Sastra Jawa Kuno	2	4	2	2	4	2	3	2	4	2	3	4	2	3	3	4	4	3	4	3	2	4	2	4	
-28/03/2024 21:19:54	guskartantika123@gmail.com	Ida bagus ketut yogi kartantika manuaba	2201531016	Sastra Jawa Kuno	1	5	2	1	5	1	4	1	5	1	3	5	2	5	3	5	2	3	5	2	2	5	3	5	
-28/03/2024 21:31:24	ayucandradewi01@gmail.com	Putu Ayu  Candra Dewi 	2201531010	Sastra Jawa Kuno	4	5	5	4	5	5	5	4	5	4	4	5	4	5	4	5	5	2	5	4	4	5	5	4	
-28/03/2024 21:50:15	sedana817@gmail.com	I Made Sedana Putra	2201521019	Sastra Bali	2	3	1	2	4	1	1	2	2	2	2	3	2	3	2	3	4	2	4	3	2	3	3	2	
-28/03/2024 22:05:29	wedaadi.wa04@gmail.com	I  Gusti Putu Weda Adi Wangsa	2201531005	Sastra Jawa Kuno	4	5	4	3	5	4	5	1	5	1	5	4	5	5	5	4	4	5	5	4	3	5	5	1	
-28/03/2024 22:19:46	ayudiahpd17@gmail.com	Ni Kadek Ayuk Diah Puspita Dewi	2001521026	Sastra Bali	2	4	3	1	5	1	4	2	5	4	4	4	3	5	5	4	4	4	3	4	4	5	5	4	
-29/03/2024 5:47:13	yusan1523@gmail.com	I Wayan Wahyu Sanjaya 	2101521025	Sastra Bali	2	4	5	2	5	4	5	1	4	1	5	3	4	5	4	3	3	4	5	2	4	5	5	3	
-29/03/2024 20:02:58	suryatrisnapunya@gmail.com	Ida Ayu Trisna Purnam Jayanti 	2101521018	Sastra Bali	4	4	5	4	4	5	4	4	5	5	4	5	5	5	5	5	5	4	1	5	4	5	4	5	
-31/03/2024 13:32:04	dayuputri3112@gmail.com	Ida Ayu Gede Agung Putri Wedani 	202201020005	Sastra Bali	2	3	4	3	5	4	2	4	5	2	3	4	1	4	5	4	3	4	4	4	2	4	3	5	
-31/03/2024 13:38:15	putdek65@gmail.com	Ni Kadek Hari Raditya Putri	202101020020	Sastra Bali	2	5	2	2	2	2	5	2	5	2	5	2	2	5	5	5	2	5	2	2	2	5	5	2	
-31/03/2024 13:45:07	ketutastiara@gmail.com	I Ketut Astiara Septyastawa 	202101020023	Sastra Bali	2	2	5	2	2	4	2	2	3	1	3	5	3	5	3	5	5	4	5	4	4	5	5	4	
-31/03/2024 13:45:58	putuyeniikayanti@gmail.com	Putu Yeni Ika Yanti	202301020001	Sastra Bali	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	
-31/03/2024 13:52:10	budi.id1293@gmail.com	Ni Ketut Budi Widiasih 	202201020019	Sastra Bali	1	2	5	1	2	5	5	1	5	1	3	5	3	5	3	5	5	3	5	3	2	5	5	2	
-31/03/2024 13:58:44	luhputujuliantari235@gmail.com	NI LUH PUTU JULIANTARI 	222021	Sastra Bali	2	2	5	2	4	5	3	3	5	5	1	5	2	5	5	5	2	3	4	2	2	4	2	4	
-31/03/2024 14:15:24	widyaantari265@gmail.com	Ni Luh Widya Antari 	202201020006	Sastra Bali	1	5	5	2	5	5	5	1	5	1	2	4	2	4	3	4	4	4	4	1	2	4	2	4	
-31/03/2024 14:20:26	niputuswastini87@gmail.com	Ni putu Swastini 	202001020022	Sastra Bali	5	3	3	3	2	4	3	3	4	4	5	3	4	3	4	3	4	4	4	4	3	5	3	4	
-31/03/2024 14:35:06	paangarjawa312@gmail.com	I Ketut Paang Arjawa	212034	Sastra Bali	2	4	4	2	4	4	4	1	3	1	2	3	2	3	2	3	4	2	5	3	4	5	4	3	
-31/03/2024 14:38:26	trisnawardani2608@gmail.com	Komang Trisna Wardani	232001	Sastra Bali	1	4	5	2	3	4	3	1	4	1	2	3	1	3	1	3	3	2	4	2	3	2	2	4	
-31/03/2024 14:42:54	prianata229@gmail.com	I Wayan Priyanata	212029	Sastra Bali	1	1	1	1	1	1	5	2	3	4	4	2	3	3	2	3	3	3	3	3	1	2	2	1	
-31/03/2024 14:56:24	nengahsuciari@gmail.com	Ni Nengah Suciarini 	232006	Sastra Bali	2	4	5	1	1	3	4	3	3	4	5	5	4	3	2	4	5	4	3	3	4	4	2	4	
-31/03/2024 15:24:33	agussuardika2604@gmail.com	I Nengah Agud Suardika	232012	Sastra Bali	3	4	4	3	4	3	2	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	
-31/03/2024 15:27:46	wedanamurti439@gmail.com	I Nyoman Murti Wedana	222018	Sastra Bali	1	1	5	1	5	2	2	1	3	1	2	4	2	4	3	3	5	5	5	5	2	4	1	2	
-31/03/2024 16:03:37	miracahyani64@gmail.com	Ni Made Mira Cahyani	202001020021	Sastra Bali	1	5	1	1	5	1	5	1	5	1	1	5	1	5	1	5	5	1	5	1	4	5	5	4	
-31/03/2024 16:29:51	gungsridewi17@gmail.com	Anak Agung Sri Dewi	202301020006	Sastra Bali	1	3	5	1	3	5	5	1	5	1	1	5	1	5	1	5	5	1	5	1	1	5	1	5	
-31/03/2024 16:34:41	jayantiari509@gmail.com	Ni Kadek Ari Jayanti Kusuma Dewi	232007	Sastra Bali	4	4	5	3	4	5	5	2	5	2	5	5	4	5	5	5	5	4	5	3	3	5	5	4	
-31/03/2024 17:07:35	agungjuliasih21@gmail.com	Anak Agung Ayu Juliasih	202201020012	Sastra Bali	3	4	5	2	5	4	5	4	5	2	3	4	3	5	4	4	4	4	4	4	4	4	4	4	
-31/03/2024 19:24:44	niputunopiyantini@gmail.com	Ni Putu Nopiyantini 	222001	Sastra Bali	3	3	3	2	3	3	4	2	3	2	4	4	2	2	2	2	3	2	3	2	5	3	2	2	
-01/04/2024 9:31:06	lanyuk20015@gmail.com	I WAYAN BAYU KENCANA	202201020017	Sastra Bali	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	
-01/04/2024 10:06:17	indramade515@gmail.com	I Made Indra Sanjaya	202201020002	Sastra Bali	4	4	4	3	5	5	3	5	5	3	5	5	5	3	5	5	4	5	5	5	5	3	4	5	
-02/04/2024 11:43:41	kadekgedebismantara@gmail.com	I KADEK GEDE BISMANTARA 	232004	Sastra Bali	2	2	4	2	4	4	1	1	2	2	3	5	2	4	5	4	4	2	2	4	3	5	2	4	
-02/04/2024 11:46:44	wayandenisaputra6@gmail.com	I Wayan Deni Saputra	232011	Sastra Bali	4	4	2	2	4	2	4	2	2	4	5	4	2	4	4	2	2	4	5	2	5	5	2	5	
-02/04/2024 21:44:40	dindarahayu101215@gmail.com	Ni Luh Made Dinda Dwinita Rahayu 	2301521008	Sastra Bali	3	3	3	3	4	3	5	2	4	2	2	3	2	3	3	3	5	3	5	2	3	2	3	3	
-03/04/2024 8:57:04	kampretos.pff@gmail.com	I Made Dwi Artaguna	2301521020	Sastra Bali	3	3	3	3	3	3	3	3	3	3	4	4	1	1	3	3	3	3	3	3	4	5	3	2	Universitas Udayana
-03/04/2024 9:10:19	putuangga0818@gmail.com	I Putu Angga Mudityawan 	2301521005	Sastra Bali	1	3	4	3	3	4	3	3	4	5	3	3	3	4	2	3	4	5	5	4	3	5	4	3	Universitas Udayana
-03/04/2024 11:03:50	ariwidya3521@gmail.com	ariwidya3521@gmail.com	2301521017	Sastra Bali	4	5	4	4	5	4	5	4	5	4	4	5	4	5	4	5	4	3	5	4	5	4	4	5	Universitas Udayana
-03/04/2024 15:00:18	idewaputugunaarta@gmail.com	I Dewa Putu Guna Arta 	2301521019	Sastra Bali	2	3	5	1	2	5	5	2	5	2	1	4	3	5	2	4	4	3	3	4	4	3	3	4	Universitas Udayana
-03/04/2024 18:11:36	tasyaaryani2003@gmail.com	Ni Ketut Tasya Aryani Antari	2301521011	Sastra Bali	2	3	3	3	3	3	3	2	3	2	2	3	3	3	3	3	4	4	4	3	3	5	5	2	Universitas Udayana
-03/04/2024 18:18:14	sayangdalem4@gmail.com	I Putu Sayang Dalem	2301521002	Sastra Bali	2	5	5	1	5	5	5	1	5	1	1	5	1	5	2	5	5	3	5	3	3	5	5	3	Universitas Udayana
-03/04/2024 18:28:09	sanaragrey88@gmail.com	Gusti Ayu Putu Dian Oktamaharani 	2301521004	Sastra Bali	2	5	4	1	5	4	5	1	5	1	2	5	2	5	1	5	5	2	5	1	1	5	5	4	Universitas Udayana
-03/04/2024 18:37:59	ayusuanmiathi24@gmail.com	Ni Made Ayu Suanmiathi 	2301521018	Sastra Bali	4	3	1	3	4	1	5	3	5	3	3	2	4	3	4	3	4	3	4	3	3	4	3	4	Universitas Udayana
-03/04/2024 18:41:26	pipinmade@gmail.com	Ni Made Pipin Pradnya Wati	2301521007	Sastra Bali	5	3	5	3	3	5	3	5	4	3	3	4	5	3	5	3	5	3	5	3	3	5	5	3	Universitas Udayana
-03/04/2024 18:44:51	desakwidia494@gmail.com	Desak Putu Widani	2301521003	Sastra Bali	2	4	4	2	3	3	2	2	3	2	2	3	2	3	2	3	4	2	3	3	2	4	2	3	Universitas Udayana
-03/04/2024 18:46:35	iadewiariskaputri@gmail.com	Ida Ayu Dewi Ariska Putri	2301521009	Sastra Bali	3	4	4	3	4	4	5	1	5	1	3	4	2	4	3	3	2	4	4	2	4	2	4	2	Universitas Udayana
-03/04/2024 18:50:15	dinaamiraa212@gmail.com	Putu Dina Mira Wulandarj	2301521006	Sastra Bali	4	1	3	4	2	2	2	2	2	2	2	2	2	2	2	2	3	2	2	3	4	4	3	3	Universitas Udayana
-03/04/2024 18:54:35	ayusandidewipurnama878@gmail.com	Made Ayu Sandi Dewi Purnama	2301521016	Sastra Bali	4	5	5	4	3	5	5	4	1	5	3	5	1	2	4	5	5	4	4	4	2	5	2	2	Universitas Udayana
-03/04/2024 19:04:13	igedemahajaya@gmail.com	I Gede Mahajaya	2301521013	Sastra Bali	3	5	2	5	5	4	5	1	5	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	Universitas Udayana
-03/04/2024 21:48:15	phinanjoenk@gmail.com	Ni Kadek Bulan Eka Paramitha 	2301521010	Sastra Bali	3	4	4	3	4	2	4	2	5	2	3	3	3	3	3	3	4	2	4	2	2	3	3	2	Universitas Udayana
-04/04/2024 12:39:02	yogiadi0905@gmail.com	I Kadek Yogi Adi Pratama	202201020007	Pendidikan Bahasa Bali	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	Universitas PGRI Mahadewa
-04/04/2024 12:54:17	ayunidamayanti17@gmail.com	Ni Komang Ayuni Damayanti 	202001020019	Sastra Bali	4	2	5	2	2	5	5	1	5	2	5	5	5	4	5	5	5	4	5	3	5	5	5	1	Universitas PGRI Mahadewa
-04/04/2024 13:14:12	kputrayasa29@gmail.com	I Komang Putrayasa	202201020004	Pendidikan Bahasa Bali	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	Universitas PGRI Mahadewa
-04/04/2024 14:38:34	wiranataartama@gmail.com	Pande I Wayan Wiranata Artamq	222020	Pendidikan Bahasa Bali	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	STKIP Agama Hindu Amlapura
-04/04/2024 14:43:42	ketutekarini0511@gmail.com	Ketut Ekarini	212020	Pendidikan Bahasa Bali	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	STKIP Agama Hindu Amlapura
-04/04/2024 14:45:54	ayumanggiantari@gmail.com	NI GUSTI AYU RAI MANGGIANTARI	212013	Pendidikan Bahasa Bali	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	STKIP Agama Hindu Amlapura
-04/04/2024 14:47:57	dewinovidewi254@gmail.com	Ni Luh Novi Panca Dewi	202001020020	Pendidikan Bahasa Bali	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Universitas PGRI Mahadewa
-04/04/2024 14:50:57	ayuaprilisia11@gmail.com	Ni Gusti Ayu Putu Aprilisia 	212028	Pendidikan Bahasa Bali	3	3	4	3	3	4	2	3	2	3	3	4	2	2	3	3	3	2	3	3	2	3	2	3	STKIP Agama Hindu Amlapura
-04/04/2024 14:51:58	dekjunior163@gmail.com	I KADEK BAYU JUNIOR	212017	Pendidikan Bahasa Bali	2	4	2	3	2	4	2	3	3	2	3	2	3	2	3	2	3	2	3	2	4	2	3	2	STKIP Agama Hindu Amlapura
-04/04/2024 14:54:46	sriastari27@gmail.com	Ni Luh Sri Astari	212012	Pendidikan Bahasa Bali	2	4	4	2	4	3	2	2	3	3	3	3	3	3	3	3	4	2	4	2	3	3	4	3	STKIP Agama Hindu Amlapura
-04/04/2024 14:56:23	niputuariani2512@gmail.com	Ni Kadek Putu Ariani	212024	Pendidikan Bahasa Bali	2	4	3	2	3	4	2	4	2	4	2	4	3	4	2	3	2	3	3	3	1	2	4	3	STKIP Agama Hindu Amlapura
-04/04/2024 15:01:11	nengahadnyana3@gmail.com	I Nengah Adnyana	212035	Pendidikan Bahasa Bali	2	3	4	2	2	4	3	2	3	4	2	4	1	4	3	2	2	4	4	2	2	3	3	3	STKIP Agama Hindu Amlapura
-04/04/2024 15:01:35	darmayoga031@gmail.com	I Gusti Bagus Dharma Yoga 	212006	Pendidikan Bahasa Bali	2	3	1	2	3	4	3	4	4	4	3	3	2	3	2	3	3	4	3	3	3	3	4	2	STKIP Agama Hindu Amlapura
-04/04/2024 16:12:36	febiariawan72@gmail.com	I Made Febi Ariawan	212007	Pendidikan Bahasa Bali	2	4	4	3	4	3	2	1	1	2	3	4	2	3	3	3	3	4	3	4	3	4	3	5	STKIP Agama Hindu Amlapura
-04/04/2024 16:23:38	samitriani87@gmail.com	Ni Komang Samitriani 	212032	Pendidikan Bahasa Bali	1	3	5	1	4	5	3	2	5	2	4	4	3	4	3	4	4	3	4	2	3	4	2	4	STKIP Agama Hindu Amlapura
-04/04/2024 16:29:49	pandeintan4@gmail.com	Ni Wayan Pande Intan Irariani	212002	Pendidikan Bahasa Bali	4	3	4	2	3	3	4	2	3	2	2	2	1	2	2	2	2	3	2	2	2	4	3	2	STKIP Agama Hindu Amlapura
-04/04/2024 16:34:27	desiani9066@gmail.com	NI KETUT DESIANI	212008	Pendidikan Bahasa Bali	2	3	1	2	2	2	3	3	3	3	3	4	2	3	2	2	2	4	3	2	4	4	3	3	STKIP Agama Hindu Amlapura
-04/04/2024 16:35:33	dekulan18@gmail.com	Ni Kadek Ulan Sintyawati	212014	Pendidikan Bahasa Bali	3	3	4	3	4	3	3	3	3	4	3	4	3	4	2	4	3	3	3	3	4	4	4	4	STKIP Agama Hindu Amlapura
-04/04/2024 16:35:34	candriyani123@gmail.com	NI KETUT CANDRIANI	212023	Pendidikan Bahasa Bali	1	4	5	4	4	1	5	1	5	4	4	4	1	1	1	1	5	1	1	1	5	3	5	3	STKIP Agama Hindu Amlapura
-04/04/2024 16:36:56	iannn3793@gmail.com	Ni putu dian pradnya dewi	202301020008	Sastra Bali	3	3	2	2	3	3	5	3	3	3	3	3	3	1	3	2	3	3	5	1	1	5	5	1	Universitas PGRI Mahadewa
-04/04/2024 17:59:55	pandesanthiwiryaningsih@gmail.com	Ni Komang Santhi Wiryaningsih	212030	Pendidikan Bahasa Bali	1	5	5	1	4	5	3	4	3	4	4	5	3	3	4	4	4	3	4	1	2	5	3	5	STKIP Agama Hindu Amlapura
-04/04/2024 19:06:59	evadamayanti623@gmail.com	Ni Wayan Eva Damayanti	202001020023	Pendidikan Bahasa Bali	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	Universitas PGRI Mahadewa
-05/04/2024 7:30:05	dheeindra23@gmail.com	I PUTU GEDE INDRA AMERTA PUTRA 	222025	Pendidikan Bahasa Bali	3	3	4	4	4	4	4	3	4	3	2	2	2	2	3	3	3	2	3	2	3	3	3	2	STKIP Agama Hindu Amlapura
-05/04/2024 9:37:38	opipurnami0@gmail.com	Ni Komang Opi purnami 	222015	Pendidikan Bahasa Bali	1	5	5	1	1	5	5	1	2	1	1	5	1	5	1	5	5	1	5	1	5	5	1	1	STKIP Agama Hindu Amlapura
+Timestamp	ParticipantID	Sentences	Rating	sentenceID
+28/03/2024 18:57:44	1	1. Ia nyelap katanjung teken I Nyoman	5	1
+28/03/2024 18:57:44	1	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 18:57:44	1	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 18:57:44	1	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 18:57:44	1	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 18:57:44	1	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 18:57:44	1	7. Da Nyoman lempaga	5	7
+28/03/2024 18:57:44	1	8. Da Nyoman kalempag	3	8
+28/03/2024 18:57:44	1	9. Da Made tanjunga	5	9
+28/03/2024 18:57:44	1	10. Da Made katanjung	2	10
+28/03/2024 18:57:44	1	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 18:57:44	1	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 18:57:44	1	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 18:57:44	1	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 18:57:44	1	15. Anake ento katanjung makelone duang detik	4	15
+28/03/2024 18:57:44	1	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 18:57:44	1	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+28/03/2024 18:57:44	1	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 18:57:44	1	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 18:57:44	1	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 18:57:44	1	21. Kuaca nika tumbasa antuk ida	4	21
+28/03/2024 18:57:44	1	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 18:57:44	1	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 18:57:44	1	24. Montor nika adola antuk ida	4	24
+28/03/2024 19:03:34	2	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 19:03:34	2	2. Ia nyelap tanjunga teken I Nyoman	3	2
+28/03/2024 19:03:34	2	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 19:03:34	2	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 19:03:34	2	5. Ia nyelap lempaga teken I Made	3	5
+28/03/2024 19:03:34	2	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 19:03:34	2	7. Da Nyoman lempaga	3	7
+28/03/2024 19:03:34	2	8. Da Nyoman kalempag	1	8
+28/03/2024 19:03:34	2	9. Da Made tanjunga	3	9
+28/03/2024 19:03:34	2	10. Da Made katanjung	1	10
+28/03/2024 19:03:34	2	11. Luune kasampatang makelone limang menit	1	11
+28/03/2024 19:03:34	2	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 19:03:34	2	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 19:03:34	2	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 19:03:34	2	15. Anake ento katanjung makelone duang detik	4	15
+28/03/2024 19:03:34	2	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 19:03:34	2	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 19:03:34	2	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 19:03:34	2	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 19:03:34	2	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+28/03/2024 19:03:34	2	21. Kuaca nika tumbasa antuk ida	1	21
+28/03/2024 19:03:34	2	22. Kuaca nika katumbas antuk ida	3	22
+28/03/2024 19:03:34	2	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 19:03:34	2	24. Montor nika adola antuk ida	1	24
+28/03/2024 19:03:45	3	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 19:03:45	3	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 19:03:45	3	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 19:03:45	3	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 19:03:45	3	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 19:03:45	3	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 19:03:45	3	7. Da Nyoman lempaga	5	7
+28/03/2024 19:03:45	3	8. Da Nyoman kalempag	2	8
+28/03/2024 19:03:45	3	9. Da Made tanjunga	4	9
+28/03/2024 19:03:45	3	10. Da Made katanjung	2	10
+28/03/2024 19:03:45	3	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 19:03:45	3	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 19:03:45	3	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 19:03:45	3	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 19:03:45	3	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 19:03:45	3	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 19:03:45	3	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 19:03:45	3	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 19:03:45	3	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+28/03/2024 19:03:45	3	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 19:03:45	3	21. Kuaca nika tumbasa antuk ida	1	21
+28/03/2024 19:03:45	3	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 19:03:45	3	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 19:03:45	3	24. Montor nika adola antuk ida	3	24
+28/03/2024 19:07:34	4	1. Ia nyelap katanjung teken I Nyoman	4	1
+28/03/2024 19:07:34	4	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 19:07:34	4	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 19:07:34	4	4. Ia nyelap kalempag teken I Made	4	4
+28/03/2024 19:07:34	4	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 19:07:34	4	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+28/03/2024 19:07:34	4	7. Da Nyoman lempaga	4	7
+28/03/2024 19:07:34	4	8. Da Nyoman kalempag	2	8
+28/03/2024 19:07:34	4	9. Da Made tanjunga	5	9
+28/03/2024 19:07:34	4	10. Da Made katanjung	2	10
+28/03/2024 19:07:34	4	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 19:07:34	4	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 19:07:34	4	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 19:07:34	4	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 19:07:34	4	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 19:07:34	4	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 19:07:34	4	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 19:07:34	4	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 19:07:34	4	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 19:07:34	4	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 19:07:34	4	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 19:07:34	4	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 19:07:34	4	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 19:07:34	4	24. Montor nika adola antuk ida	3	24
+28/03/2024 19:11:43	5	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 19:11:43	5	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 19:11:43	5	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 19:11:43	5	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 19:11:43	5	5. Ia nyelap lempaga teken I Made	3	5
+28/03/2024 19:11:43	5	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 19:11:43	5	7. Da Nyoman lempaga	4	7
+28/03/2024 19:11:43	5	8. Da Nyoman kalempag	3	8
+28/03/2024 19:11:43	5	9. Da Made tanjunga	4	9
+28/03/2024 19:11:43	5	10. Da Made katanjung	3	10
+28/03/2024 19:11:43	5	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 19:11:43	5	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 19:11:43	5	13. Anake ento katinjak makelone duang detik	4	13
+28/03/2024 19:11:43	5	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 19:11:43	5	15. Anake ento katanjung makelone duang detik	4	15
+28/03/2024 19:11:43	5	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 19:11:43	5	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+28/03/2024 19:11:43	5	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 19:11:43	5	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 19:11:43	5	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 19:11:43	5	21. Kuaca nika tumbasa antuk ida	2	21
+28/03/2024 19:11:43	5	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 19:11:43	5	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 19:11:43	5	24. Montor nika adola antuk ida	4	24
+28/03/2024 19:12:36	6	1. Ia nyelap katanjung teken I Nyoman	4	1
+28/03/2024 19:12:36	6	2. Ia nyelap tanjunga teken I Nyoman	3	2
+28/03/2024 19:12:36	6	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 19:12:36	6	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 19:12:36	6	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 19:12:36	6	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 19:12:36	6	7. Da Nyoman lempaga	3	7
+28/03/2024 19:12:36	6	8. Da Nyoman kalempag	2	8
+28/03/2024 19:12:36	6	9. Da Made tanjunga	4	9
+28/03/2024 19:12:36	6	10. Da Made katanjung	2	10
+28/03/2024 19:12:36	6	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 19:12:36	6	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 19:12:36	6	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 19:12:36	6	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 19:12:36	6	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 19:12:36	6	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 19:12:36	6	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+28/03/2024 19:12:36	6	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+28/03/2024 19:12:36	6	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+28/03/2024 19:12:36	6	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 19:12:36	6	21. Kuaca nika tumbasa antuk ida	1	21
+28/03/2024 19:12:36	6	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 19:12:36	6	23. Montor nika kaadol antuk ida	1	23
+28/03/2024 19:12:36	6	24. Montor nika adola antuk ida	3	24
+28/03/2024 19:12:58	7	1. Ia nyelap katanjung teken I Nyoman	1	1
+28/03/2024 19:12:58	7	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 19:12:58	7	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+28/03/2024 19:12:58	7	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 19:12:58	7	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 19:12:58	7	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 19:12:58	7	7. Da Nyoman lempaga	5	7
+28/03/2024 19:12:58	7	8. Da Nyoman kalempag	1	8
+28/03/2024 19:12:58	7	9. Da Made tanjunga	5	9
+28/03/2024 19:12:58	7	10. Da Made katanjung	1	10
+28/03/2024 19:12:58	7	11. Luune kasampatang makelone limang menit	1	11
+28/03/2024 19:12:58	7	12. Luune sampatanga makelone limang menit	5	12
+28/03/2024 19:12:58	7	13. Anake ento katinjak makelone duang detik	1	13
+28/03/2024 19:12:58	7	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 19:12:58	7	15. Anake ento katanjung makelone duang detik	1	15
+28/03/2024 19:12:58	7	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 19:12:58	7	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 19:12:58	7	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+28/03/2024 19:12:58	7	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 19:12:58	7	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+28/03/2024 19:12:58	7	21. Kuaca nika tumbasa antuk ida	1	21
+28/03/2024 19:12:58	7	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 19:12:58	7	23. Montor nika kaadol antuk ida	1	23
+28/03/2024 19:12:58	7	24. Montor nika adola antuk ida	5	24
+28/03/2024 19:15:44	8	1. Ia nyelap katanjung teken I Nyoman	1	1
+28/03/2024 19:15:44	8	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 19:15:44	8	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 19:15:44	8	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 19:15:44	8	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 19:15:44	8	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+28/03/2024 19:15:44	8	7. Da Nyoman lempaga	5	7
+28/03/2024 19:15:44	8	8. Da Nyoman kalempag	1	8
+28/03/2024 19:15:44	8	9. Da Made tanjunga	5	9
+28/03/2024 19:15:44	8	10. Da Made katanjung	1	10
+28/03/2024 19:15:44	8	11. Luune kasampatang makelone limang menit	5	11
+28/03/2024 19:15:44	8	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 19:15:44	8	13. Anake ento katinjak makelone duang detik	5	13
+28/03/2024 19:15:44	8	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 19:15:44	8	15. Anake ento katanjung makelone duang detik	5	15
+28/03/2024 19:15:44	8	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 19:15:44	8	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 19:15:44	8	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+28/03/2024 19:15:44	8	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 19:15:44	8	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+28/03/2024 19:15:44	8	21. Kuaca nika tumbasa antuk ida	1	21
+28/03/2024 19:15:44	8	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 19:15:44	8	23. Montor nika kaadol antuk ida	5	23
+28/03/2024 19:15:44	8	24. Montor nika adola antuk ida	1	24
+28/03/2024 19:29:36	9	1. Ia nyelap katanjung teken I Nyoman	5	1
+28/03/2024 19:29:36	9	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 19:29:36	9	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+28/03/2024 19:29:36	9	4. Ia nyelap kalempag teken I Made	5	4
+28/03/2024 19:29:36	9	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 19:29:36	9	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+28/03/2024 19:29:36	9	7. Da Nyoman lempaga	5	7
+28/03/2024 19:29:36	9	8. Da Nyoman kalempag	1	8
+28/03/2024 19:29:36	9	9. Da Made tanjunga	5	9
+28/03/2024 19:29:36	9	10. Da Made katanjung	1	10
+28/03/2024 19:29:36	9	11. Luune kasampatang makelone limang menit	5	11
+28/03/2024 19:29:36	9	12. Luune sampatanga makelone limang menit	5	12
+28/03/2024 19:29:36	9	13. Anake ento katinjak makelone duang detik	5	13
+28/03/2024 19:29:36	9	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 19:29:36	9	15. Anake ento katanjung makelone duang detik	5	15
+28/03/2024 19:29:36	9	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 19:29:36	9	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 19:29:36	9	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+28/03/2024 19:29:36	9	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 19:29:36	9	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+28/03/2024 19:29:36	9	21. Kuaca nika tumbasa antuk ida	5	21
+28/03/2024 19:29:36	9	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 19:29:36	9	23. Montor nika kaadol antuk ida	5	23
+28/03/2024 19:29:36	9	24. Montor nika adola antuk ida	1	24
+28/03/2024 19:52:17	10	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 19:52:17	10	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 19:52:17	10	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+28/03/2024 19:52:17	10	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 19:52:17	10	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 19:52:17	10	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+28/03/2024 19:52:17	10	7. Da Nyoman lempaga	5	7
+28/03/2024 19:52:17	10	8. Da Nyoman kalempag	1	8
+28/03/2024 19:52:17	10	9. Da Made tanjunga	5	9
+28/03/2024 19:52:17	10	10. Da Made katanjung	1	10
+28/03/2024 19:52:17	10	11. Luune kasampatang makelone limang menit	4	11
+28/03/2024 19:52:17	10	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 19:52:17	10	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 19:52:17	10	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 19:52:17	10	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 19:52:17	10	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 19:52:17	10	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 19:52:17	10	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 19:52:17	10	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 19:52:17	10	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 19:52:17	10	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 19:52:17	10	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 19:52:17	10	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 19:52:17	10	24. Montor nika adola antuk ida	2	24
+28/03/2024 19:58:58	11	1. Ia nyelap katanjung teken I Nyoman	5	1
+28/03/2024 19:58:58	11	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 19:58:58	11	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+28/03/2024 19:58:58	11	4. Ia nyelap kalempag teken I Made	5	4
+28/03/2024 19:58:58	11	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 19:58:58	11	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+28/03/2024 19:58:58	11	7. Da Nyoman lempaga	3	7
+28/03/2024 19:58:58	11	8. Da Nyoman kalempag	1	8
+28/03/2024 19:58:58	11	9. Da Made tanjunga	4	9
+28/03/2024 19:58:58	11	10. Da Made katanjung	1	10
+28/03/2024 19:58:58	11	11. Luune kasampatang makelone limang menit	1	11
+28/03/2024 19:58:58	11	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 19:58:58	11	13. Anake ento katinjak makelone duang detik	1	13
+28/03/2024 19:58:58	11	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 19:58:58	11	15. Anake ento katanjung makelone duang detik	1	15
+28/03/2024 19:58:58	11	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 19:58:58	11	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 19:58:58	11	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 19:58:58	11	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 19:58:58	11	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 19:58:58	11	21. Kuaca nika tumbasa antuk ida	5	21
+28/03/2024 19:58:58	11	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 19:58:58	11	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 19:58:58	11	24. Montor nika adola antuk ida	5	24
+28/03/2024 20:04:34	12	1. Ia nyelap katanjung teken I Nyoman	1	1
+28/03/2024 20:04:34	12	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 20:04:34	12	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 20:04:34	12	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 20:04:34	12	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 20:04:34	12	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 20:04:34	12	7. Da Nyoman lempaga	4	7
+28/03/2024 20:04:34	12	8. Da Nyoman kalempag	1	8
+28/03/2024 20:04:34	12	9. Da Made tanjunga	4	9
+28/03/2024 20:04:34	12	10. Da Made katanjung	1	10
+28/03/2024 20:04:34	12	11. Luune kasampatang makelone limang menit	4	11
+28/03/2024 20:04:34	12	12. Luune sampatanga makelone limang menit	2	12
+28/03/2024 20:04:34	12	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 20:04:34	12	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 20:04:34	12	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 20:04:34	12	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 20:04:34	12	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 20:04:34	12	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+28/03/2024 20:04:34	12	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 20:04:34	12	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 20:04:34	12	21. Kuaca nika tumbasa antuk ida	1	21
+28/03/2024 20:04:34	12	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 20:04:34	12	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 20:04:34	12	24. Montor nika adola antuk ida	2	24
+28/03/2024 20:06:57	13	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 20:06:57	13	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 20:06:57	13	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+28/03/2024 20:06:57	13	4. Ia nyelap kalempag teken I Made	4	4
+28/03/2024 20:06:57	13	5. Ia nyelap lempaga teken I Made	3	5
+28/03/2024 20:06:57	13	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+28/03/2024 20:06:57	13	7. Da Nyoman lempaga	5	7
+28/03/2024 20:06:57	13	8. Da Nyoman kalempag	2	8
+28/03/2024 20:06:57	13	9. Da Made tanjunga	5	9
+28/03/2024 20:06:57	13	10. Da Made katanjung	2	10
+28/03/2024 20:06:57	13	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 20:06:57	13	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 20:06:57	13	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 20:06:57	13	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 20:06:57	13	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 20:06:57	13	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 20:06:57	13	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 20:06:57	13	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+28/03/2024 20:06:57	13	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 20:06:57	13	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 20:06:57	13	21. Kuaca nika tumbasa antuk ida	4	21
+28/03/2024 20:06:57	13	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 20:06:57	13	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 20:06:57	13	24. Montor nika adola antuk ida	3	24
+28/03/2024 20:23:35	14	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 20:23:35	14	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 20:23:35	14	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+28/03/2024 20:23:35	14	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 20:23:35	14	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 20:23:35	14	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 20:23:35	14	7. Da Nyoman lempaga	4	7
+28/03/2024 20:23:35	14	8. Da Nyoman kalempag	2	8
+28/03/2024 20:23:35	14	9. Da Made tanjunga	5	9
+28/03/2024 20:23:35	14	10. Da Made katanjung	2	10
+28/03/2024 20:23:35	14	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 20:23:35	14	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 20:23:35	14	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 20:23:35	14	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 20:23:35	14	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 20:23:35	14	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 20:23:35	14	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 20:23:35	14	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 20:23:35	14	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 20:23:35	14	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 20:23:35	14	21. Kuaca nika tumbasa antuk ida	2	21
+28/03/2024 20:23:35	14	22. Kuaca nika katumbas antuk ida	3	22
+28/03/2024 20:23:35	14	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 20:23:35	14	24. Montor nika adola antuk ida	3	24
+28/03/2024 20:34:07	15	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 20:34:07	15	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 20:34:07	15	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+28/03/2024 20:34:07	15	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 20:34:07	15	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 20:34:07	15	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 20:34:07	15	7. Da Nyoman lempaga	3	7
+28/03/2024 20:34:07	15	8. Da Nyoman kalempag	3	8
+28/03/2024 20:34:07	15	9. Da Made tanjunga	4	9
+28/03/2024 20:34:07	15	10. Da Made katanjung	3	10
+28/03/2024 20:34:07	15	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 20:34:07	15	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 20:34:07	15	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 20:34:07	15	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 20:34:07	15	15. Anake ento katanjung makelone duang detik	4	15
+28/03/2024 20:34:07	15	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 20:34:07	15	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 20:34:07	15	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 20:34:07	15	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 20:34:07	15	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 20:34:07	15	21. Kuaca nika tumbasa antuk ida	5	21
+28/03/2024 20:34:07	15	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 20:34:07	15	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 20:34:07	15	24. Montor nika adola antuk ida	5	24
+28/03/2024 20:39:02	16	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 20:39:02	16	2. Ia nyelap tanjunga teken I Nyoman	3	2
+28/03/2024 20:39:02	16	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 20:39:02	16	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 20:39:02	16	5. Ia nyelap lempaga teken I Made	2	5
+28/03/2024 20:39:02	16	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 20:39:02	16	7. Da Nyoman lempaga	5	7
+28/03/2024 20:39:02	16	8. Da Nyoman kalempag	1	8
+28/03/2024 20:39:02	16	9. Da Made tanjunga	5	9
+28/03/2024 20:39:02	16	10. Da Made katanjung	1	10
+28/03/2024 20:39:02	16	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 20:39:02	16	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 20:39:02	16	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 20:39:02	16	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 20:39:02	16	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 20:39:02	16	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 20:39:02	16	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 20:39:02	16	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 20:39:02	16	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 20:39:02	16	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 20:39:02	16	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 20:39:02	16	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 20:39:02	16	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 20:39:02	16	24. Montor nika adola antuk ida	5	24
+28/03/2024 20:40:29	17	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 20:40:29	17	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 20:40:29	17	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 20:40:29	17	4. Ia nyelap kalempag teken I Made	4	4
+28/03/2024 20:40:29	17	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 20:40:29	17	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 20:40:29	17	7. Da Nyoman lempaga	5	7
+28/03/2024 20:40:29	17	8. Da Nyoman kalempag	2	8
+28/03/2024 20:40:29	17	9. Da Made tanjunga	5	9
+28/03/2024 20:40:29	17	10. Da Made katanjung	2	10
+28/03/2024 20:40:29	17	11. Luune kasampatang makelone limang menit	4	11
+28/03/2024 20:40:29	17	12. Luune sampatanga makelone limang menit	5	12
+28/03/2024 20:40:29	17	13. Anake ento katinjak makelone duang detik	4	13
+28/03/2024 20:40:29	17	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 20:40:29	17	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 20:40:29	17	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 20:40:29	17	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 20:40:29	17	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 20:40:29	17	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 20:40:29	17	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 20:40:29	17	21. Kuaca nika tumbasa antuk ida	5	21
+28/03/2024 20:40:29	17	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 20:40:29	17	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 20:40:29	17	24. Montor nika adola antuk ida	5	24
+28/03/2024 20:49:28	18	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 20:49:28	18	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 20:49:28	18	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 20:49:28	18	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 20:49:28	18	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 20:49:28	18	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 20:49:28	18	7. Da Nyoman lempaga	3	7
+28/03/2024 20:49:28	18	8. Da Nyoman kalempag	3	8
+28/03/2024 20:49:28	18	9. Da Made tanjunga	5	9
+28/03/2024 20:49:28	18	10. Da Made katanjung	1	10
+28/03/2024 20:49:28	18	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 20:49:28	18	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 20:49:28	18	13. Anake ento katinjak makelone duang detik	1	13
+28/03/2024 20:49:28	18	14. Anake ento tinjaka makelone duang detik	1	14
+28/03/2024 20:49:28	18	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 20:49:28	18	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 20:49:28	18	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 20:49:28	18	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 20:49:28	18	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 20:49:28	18	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+28/03/2024 20:49:28	18	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 20:49:28	18	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 20:49:28	18	23. Montor nika kaadol antuk ida	2	23
+28/03/2024 20:49:28	18	24. Montor nika adola antuk ida	2	24
+28/03/2024 20:50:16	19	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 20:50:16	19	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 20:50:16	19	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+28/03/2024 20:50:16	19	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 20:50:16	19	5. Ia nyelap lempaga teken I Made	2	5
+28/03/2024 20:50:16	19	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+28/03/2024 20:50:16	19	7. Da Nyoman lempaga	4	7
+28/03/2024 20:50:16	19	8. Da Nyoman kalempag	1	8
+28/03/2024 20:50:16	19	9. Da Made tanjunga	4	9
+28/03/2024 20:50:16	19	10. Da Made katanjung	1	10
+28/03/2024 20:50:16	19	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 20:50:16	19	12. Luune sampatanga makelone limang menit	2	12
+28/03/2024 20:50:16	19	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 20:50:16	19	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 20:50:16	19	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 20:50:16	19	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 20:50:16	19	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 20:50:16	19	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+28/03/2024 20:50:16	19	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 20:50:16	19	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 20:50:16	19	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 20:50:16	19	22. Kuaca nika katumbas antuk ida	3	22
+28/03/2024 20:50:16	19	23. Montor nika kaadol antuk ida	2	23
+28/03/2024 20:50:16	19	24. Montor nika adola antuk ida	3	24
+28/03/2024 20:52:41	20	1. Ia nyelap katanjung teken I Nyoman	1	1
+28/03/2024 20:52:41	20	2. Ia nyelap tanjunga teken I Nyoman	3	2
+28/03/2024 20:52:41	20	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 20:52:41	20	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 20:52:41	20	5. Ia nyelap lempaga teken I Made	3	5
+28/03/2024 20:52:41	20	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+28/03/2024 20:52:41	20	7. Da Nyoman lempaga	3	7
+28/03/2024 20:52:41	20	8. Da Nyoman kalempag	1	8
+28/03/2024 20:52:41	20	9. Da Made tanjunga	3	9
+28/03/2024 20:52:41	20	10. Da Made katanjung	1	10
+28/03/2024 20:52:41	20	11. Luune kasampatang makelone limang menit	1	11
+28/03/2024 20:52:41	20	12. Luune sampatanga makelone limang menit	2	12
+28/03/2024 20:52:41	20	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 20:52:41	20	14. Anake ento tinjaka makelone duang detik	2	14
+28/03/2024 20:52:41	20	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 20:52:41	20	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 20:52:41	20	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+28/03/2024 20:52:41	20	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+28/03/2024 20:52:41	20	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+28/03/2024 20:52:41	20	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 20:52:41	20	21. Kuaca nika tumbasa antuk ida	2	21
+28/03/2024 20:52:41	20	22. Kuaca nika katumbas antuk ida	3	22
+28/03/2024 20:52:41	20	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 20:52:41	20	24. Montor nika adola antuk ida	2	24
+28/03/2024 20:58:15	21	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 20:58:15	21	2. Ia nyelap tanjunga teken I Nyoman	2	2
+28/03/2024 20:58:15	21	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+28/03/2024 20:58:15	21	4. Ia nyelap kalempag teken I Made	4	4
+28/03/2024 20:58:15	21	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 20:58:15	21	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 20:58:15	21	7. Da Nyoman lempaga	4	7
+28/03/2024 20:58:15	21	8. Da Nyoman kalempag	1	8
+28/03/2024 20:58:15	21	9. Da Made tanjunga	3	9
+28/03/2024 20:58:15	21	10. Da Made katanjung	1	10
+28/03/2024 20:58:15	21	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 20:58:15	21	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 20:58:15	21	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 20:58:15	21	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 20:58:15	21	15. Anake ento katanjung makelone duang detik	4	15
+28/03/2024 20:58:15	21	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 20:58:15	21	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+28/03/2024 20:58:15	21	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 20:58:15	21	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 20:58:15	21	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 20:58:15	21	21. Kuaca nika tumbasa antuk ida	5	21
+28/03/2024 20:58:15	21	22. Kuaca nika katumbas antuk ida	3	22
+28/03/2024 20:58:15	21	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 20:58:15	21	24. Montor nika adola antuk ida	3	24
+28/03/2024 21:02:15	22	1. Ia nyelap katanjung teken I Nyoman	1	1
+28/03/2024 21:02:15	22	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 21:02:15	22	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 21:02:15	22	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 21:02:15	22	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 21:02:15	22	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+28/03/2024 21:02:15	22	7. Da Nyoman lempaga	5	7
+28/03/2024 21:02:15	22	8. Da Nyoman kalempag	1	8
+28/03/2024 21:02:15	22	9. Da Made tanjunga	5	9
+28/03/2024 21:02:15	22	10. Da Made katanjung	1	10
+28/03/2024 21:02:15	22	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 21:02:15	22	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 21:02:15	22	13. Anake ento katinjak makelone duang detik	1	13
+28/03/2024 21:02:15	22	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 21:02:15	22	15. Anake ento katanjung makelone duang detik	1	15
+28/03/2024 21:02:15	22	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 21:02:15	22	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 21:02:15	22	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+28/03/2024 21:02:15	22	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 21:02:15	22	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+28/03/2024 21:02:15	22	21. Kuaca nika tumbasa antuk ida	5	21
+28/03/2024 21:02:15	22	22. Kuaca nika katumbas antuk ida	2	22
+28/03/2024 21:02:15	22	23. Montor nika kaadol antuk ida	2	23
+28/03/2024 21:02:15	22	24. Montor nika adola antuk ida	5	24
+28/03/2024 21:03:42	23	1. Ia nyelap katanjung teken I Nyoman	3	1
+28/03/2024 21:03:42	23	2. Ia nyelap tanjunga teken I Nyoman	3	2
+28/03/2024 21:03:42	23	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 21:03:42	23	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 21:03:42	23	5. Ia nyelap lempaga teken I Made	3	5
+28/03/2024 21:03:42	23	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 21:03:42	23	7. Da Nyoman lempaga	4	7
+28/03/2024 21:03:42	23	8. Da Nyoman kalempag	1	8
+28/03/2024 21:03:42	23	9. Da Made tanjunga	4	9
+28/03/2024 21:03:42	23	10. Da Made katanjung	2	10
+28/03/2024 21:03:42	23	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 21:03:42	23	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 21:03:42	23	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 21:03:42	23	14. Anake ento tinjaka makelone duang detik	4	14
+28/03/2024 21:03:42	23	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 21:03:42	23	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 21:03:42	23	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 21:03:42	23	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+28/03/2024 21:03:42	23	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 21:03:42	23	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+28/03/2024 21:03:42	23	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 21:03:42	23	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 21:03:42	23	23. Montor nika kaadol antuk ida	5	23
+28/03/2024 21:03:42	23	24. Montor nika adola antuk ida	3	24
+28/03/2024 21:09:12	24	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 21:09:12	24	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 21:09:12	24	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+28/03/2024 21:09:12	24	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 21:09:12	24	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 21:09:12	24	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 21:09:12	24	7. Da Nyoman lempaga	5	7
+28/03/2024 21:09:12	24	8. Da Nyoman kalempag	1	8
+28/03/2024 21:09:12	24	9. Da Made tanjunga	5	9
+28/03/2024 21:09:12	24	10. Da Made katanjung	1	10
+28/03/2024 21:09:12	24	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 21:09:12	24	12. Luune sampatanga makelone limang menit	5	12
+28/03/2024 21:09:12	24	13. Anake ento katinjak makelone duang detik	4	13
+28/03/2024 21:09:12	24	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 21:09:12	24	15. Anake ento katanjung makelone duang detik	1	15
+28/03/2024 21:09:12	24	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 21:09:12	24	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 21:09:12	24	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 21:09:12	24	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 21:09:12	24	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 21:09:12	24	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 21:09:12	24	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 21:09:12	24	23. Montor nika kaadol antuk ida	4	23
+28/03/2024 21:09:12	24	24. Montor nika adola antuk ida	5	24
+28/03/2024 21:15:15	25	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 21:15:15	25	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 21:15:15	25	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 21:15:15	25	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 21:15:15	25	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 21:15:15	25	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+28/03/2024 21:15:15	25	7. Da Nyoman lempaga	3	7
+28/03/2024 21:15:15	25	8. Da Nyoman kalempag	2	8
+28/03/2024 21:15:15	25	9. Da Made tanjunga	4	9
+28/03/2024 21:15:15	25	10. Da Made katanjung	2	10
+28/03/2024 21:15:15	25	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 21:15:15	25	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 21:15:15	25	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 21:15:15	25	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 21:15:15	25	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 21:15:15	25	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 21:15:15	25	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 21:15:15	25	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 21:15:15	25	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 21:15:15	25	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 21:15:15	25	21. Kuaca nika tumbasa antuk ida	2	21
+28/03/2024 21:15:15	25	22. Kuaca nika katumbas antuk ida	4	22
+28/03/2024 21:15:15	25	23. Montor nika kaadol antuk ida	2	23
+28/03/2024 21:15:15	25	24. Montor nika adola antuk ida	4	24
+28/03/2024 21:19:54	26	1. Ia nyelap katanjung teken I Nyoman	1	1
+28/03/2024 21:19:54	26	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 21:19:54	26	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+28/03/2024 21:19:54	26	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 21:19:54	26	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 21:19:54	26	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+28/03/2024 21:19:54	26	7. Da Nyoman lempaga	4	7
+28/03/2024 21:19:54	26	8. Da Nyoman kalempag	1	8
+28/03/2024 21:19:54	26	9. Da Made tanjunga	5	9
+28/03/2024 21:19:54	26	10. Da Made katanjung	1	10
+28/03/2024 21:19:54	26	11. Luune kasampatang makelone limang menit	3	11
+28/03/2024 21:19:54	26	12. Luune sampatanga makelone limang menit	5	12
+28/03/2024 21:19:54	26	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 21:19:54	26	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 21:19:54	26	15. Anake ento katanjung makelone duang detik	3	15
+28/03/2024 21:19:54	26	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 21:19:54	26	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+28/03/2024 21:19:54	26	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+28/03/2024 21:19:54	26	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 21:19:54	26	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+28/03/2024 21:19:54	26	21. Kuaca nika tumbasa antuk ida	2	21
+28/03/2024 21:19:54	26	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 21:19:54	26	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 21:19:54	26	24. Montor nika adola antuk ida	5	24
+28/03/2024 21:31:24	27	1. Ia nyelap katanjung teken I Nyoman	4	1
+28/03/2024 21:31:24	27	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 21:31:24	27	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+28/03/2024 21:31:24	27	4. Ia nyelap kalempag teken I Made	4	4
+28/03/2024 21:31:24	27	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 21:31:24	27	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+28/03/2024 21:31:24	27	7. Da Nyoman lempaga	5	7
+28/03/2024 21:31:24	27	8. Da Nyoman kalempag	4	8
+28/03/2024 21:31:24	27	9. Da Made tanjunga	5	9
+28/03/2024 21:31:24	27	10. Da Made katanjung	4	10
+28/03/2024 21:31:24	27	11. Luune kasampatang makelone limang menit	4	11
+28/03/2024 21:31:24	27	12. Luune sampatanga makelone limang menit	5	12
+28/03/2024 21:31:24	27	13. Anake ento katinjak makelone duang detik	4	13
+28/03/2024 21:31:24	27	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 21:31:24	27	15. Anake ento katanjung makelone duang detik	4	15
+28/03/2024 21:31:24	27	16. Anake ento tanjunga makelone duang detik	5	16
+28/03/2024 21:31:24	27	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+28/03/2024 21:31:24	27	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+28/03/2024 21:31:24	27	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 21:31:24	27	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 21:31:24	27	21. Kuaca nika tumbasa antuk ida	4	21
+28/03/2024 21:31:24	27	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 21:31:24	27	23. Montor nika kaadol antuk ida	5	23
+28/03/2024 21:31:24	27	24. Montor nika adola antuk ida	4	24
+28/03/2024 21:50:15	28	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 21:50:15	28	2. Ia nyelap tanjunga teken I Nyoman	3	2
+28/03/2024 21:50:15	28	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+28/03/2024 21:50:15	28	4. Ia nyelap kalempag teken I Made	2	4
+28/03/2024 21:50:15	28	5. Ia nyelap lempaga teken I Made	4	5
+28/03/2024 21:50:15	28	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+28/03/2024 21:50:15	28	7. Da Nyoman lempaga	1	7
+28/03/2024 21:50:15	28	8. Da Nyoman kalempag	2	8
+28/03/2024 21:50:15	28	9. Da Made tanjunga	2	9
+28/03/2024 21:50:15	28	10. Da Made katanjung	2	10
+28/03/2024 21:50:15	28	11. Luune kasampatang makelone limang menit	2	11
+28/03/2024 21:50:15	28	12. Luune sampatanga makelone limang menit	3	12
+28/03/2024 21:50:15	28	13. Anake ento katinjak makelone duang detik	2	13
+28/03/2024 21:50:15	28	14. Anake ento tinjaka makelone duang detik	3	14
+28/03/2024 21:50:15	28	15. Anake ento katanjung makelone duang detik	2	15
+28/03/2024 21:50:15	28	16. Anake ento tanjunga makelone duang detik	3	16
+28/03/2024 21:50:15	28	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 21:50:15	28	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+28/03/2024 21:50:15	28	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+28/03/2024 21:50:15	28	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+28/03/2024 21:50:15	28	21. Kuaca nika tumbasa antuk ida	2	21
+28/03/2024 21:50:15	28	22. Kuaca nika katumbas antuk ida	3	22
+28/03/2024 21:50:15	28	23. Montor nika kaadol antuk ida	3	23
+28/03/2024 21:50:15	28	24. Montor nika adola antuk ida	2	24
+28/03/2024 22:05:29	29	1. Ia nyelap katanjung teken I Nyoman	4	1
+28/03/2024 22:05:29	29	2. Ia nyelap tanjunga teken I Nyoman	5	2
+28/03/2024 22:05:29	29	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+28/03/2024 22:05:29	29	4. Ia nyelap kalempag teken I Made	3	4
+28/03/2024 22:05:29	29	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 22:05:29	29	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+28/03/2024 22:05:29	29	7. Da Nyoman lempaga	5	7
+28/03/2024 22:05:29	29	8. Da Nyoman kalempag	1	8
+28/03/2024 22:05:29	29	9. Da Made tanjunga	5	9
+28/03/2024 22:05:29	29	10. Da Made katanjung	1	10
+28/03/2024 22:05:29	29	11. Luune kasampatang makelone limang menit	5	11
+28/03/2024 22:05:29	29	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 22:05:29	29	13. Anake ento katinjak makelone duang detik	5	13
+28/03/2024 22:05:29	29	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 22:05:29	29	15. Anake ento katanjung makelone duang detik	5	15
+28/03/2024 22:05:29	29	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 22:05:29	29	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 22:05:29	29	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+28/03/2024 22:05:29	29	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+28/03/2024 22:05:29	29	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 22:05:29	29	21. Kuaca nika tumbasa antuk ida	3	21
+28/03/2024 22:05:29	29	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 22:05:29	29	23. Montor nika kaadol antuk ida	5	23
+28/03/2024 22:05:29	29	24. Montor nika adola antuk ida	1	24
+28/03/2024 22:19:46	30	1. Ia nyelap katanjung teken I Nyoman	2	1
+28/03/2024 22:19:46	30	2. Ia nyelap tanjunga teken I Nyoman	4	2
+28/03/2024 22:19:46	30	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+28/03/2024 22:19:46	30	4. Ia nyelap kalempag teken I Made	1	4
+28/03/2024 22:19:46	30	5. Ia nyelap lempaga teken I Made	5	5
+28/03/2024 22:19:46	30	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+28/03/2024 22:19:46	30	7. Da Nyoman lempaga	4	7
+28/03/2024 22:19:46	30	8. Da Nyoman kalempag	2	8
+28/03/2024 22:19:46	30	9. Da Made tanjunga	5	9
+28/03/2024 22:19:46	30	10. Da Made katanjung	4	10
+28/03/2024 22:19:46	30	11. Luune kasampatang makelone limang menit	4	11
+28/03/2024 22:19:46	30	12. Luune sampatanga makelone limang menit	4	12
+28/03/2024 22:19:46	30	13. Anake ento katinjak makelone duang detik	3	13
+28/03/2024 22:19:46	30	14. Anake ento tinjaka makelone duang detik	5	14
+28/03/2024 22:19:46	30	15. Anake ento katanjung makelone duang detik	5	15
+28/03/2024 22:19:46	30	16. Anake ento tanjunga makelone duang detik	4	16
+28/03/2024 22:19:46	30	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+28/03/2024 22:19:46	30	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+28/03/2024 22:19:46	30	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+28/03/2024 22:19:46	30	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+28/03/2024 22:19:46	30	21. Kuaca nika tumbasa antuk ida	4	21
+28/03/2024 22:19:46	30	22. Kuaca nika katumbas antuk ida	5	22
+28/03/2024 22:19:46	30	23. Montor nika kaadol antuk ida	5	23
+28/03/2024 22:19:46	30	24. Montor nika adola antuk ida	4	24
+29/03/2024 5:47:13	31	1. Ia nyelap katanjung teken I Nyoman	2	1
+29/03/2024 5:47:13	31	2. Ia nyelap tanjunga teken I Nyoman	4	2
+29/03/2024 5:47:13	31	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+29/03/2024 5:47:13	31	4. Ia nyelap kalempag teken I Made	2	4
+29/03/2024 5:47:13	31	5. Ia nyelap lempaga teken I Made	5	5
+29/03/2024 5:47:13	31	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+29/03/2024 5:47:13	31	7. Da Nyoman lempaga	5	7
+29/03/2024 5:47:13	31	8. Da Nyoman kalempag	1	8
+29/03/2024 5:47:13	31	9. Da Made tanjunga	4	9
+29/03/2024 5:47:13	31	10. Da Made katanjung	1	10
+29/03/2024 5:47:13	31	11. Luune kasampatang makelone limang menit	5	11
+29/03/2024 5:47:13	31	12. Luune sampatanga makelone limang menit	3	12
+29/03/2024 5:47:13	31	13. Anake ento katinjak makelone duang detik	4	13
+29/03/2024 5:47:13	31	14. Anake ento tinjaka makelone duang detik	5	14
+29/03/2024 5:47:13	31	15. Anake ento katanjung makelone duang detik	4	15
+29/03/2024 5:47:13	31	16. Anake ento tanjunga makelone duang detik	3	16
+29/03/2024 5:47:13	31	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+29/03/2024 5:47:13	31	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+29/03/2024 5:47:13	31	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+29/03/2024 5:47:13	31	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+29/03/2024 5:47:13	31	21. Kuaca nika tumbasa antuk ida	4	21
+29/03/2024 5:47:13	31	22. Kuaca nika katumbas antuk ida	5	22
+29/03/2024 5:47:13	31	23. Montor nika kaadol antuk ida	5	23
+29/03/2024 5:47:13	31	24. Montor nika adola antuk ida	3	24
+29/03/2024 20:02:58	32	1. Ia nyelap katanjung teken I Nyoman	4	1
+29/03/2024 20:02:58	32	2. Ia nyelap tanjunga teken I Nyoman	4	2
+29/03/2024 20:02:58	32	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+29/03/2024 20:02:58	32	4. Ia nyelap kalempag teken I Made	4	4
+29/03/2024 20:02:58	32	5. Ia nyelap lempaga teken I Made	4	5
+29/03/2024 20:02:58	32	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+29/03/2024 20:02:58	32	7. Da Nyoman lempaga	4	7
+29/03/2024 20:02:58	32	8. Da Nyoman kalempag	4	8
+29/03/2024 20:02:58	32	9. Da Made tanjunga	5	9
+29/03/2024 20:02:58	32	10. Da Made katanjung	5	10
+29/03/2024 20:02:58	32	11. Luune kasampatang makelone limang menit	4	11
+29/03/2024 20:02:58	32	12. Luune sampatanga makelone limang menit	5	12
+29/03/2024 20:02:58	32	13. Anake ento katinjak makelone duang detik	5	13
+29/03/2024 20:02:58	32	14. Anake ento tinjaka makelone duang detik	5	14
+29/03/2024 20:02:58	32	15. Anake ento katanjung makelone duang detik	5	15
+29/03/2024 20:02:58	32	16. Anake ento tanjunga makelone duang detik	5	16
+29/03/2024 20:02:58	32	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+29/03/2024 20:02:58	32	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+29/03/2024 20:02:58	32	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	1	19
+29/03/2024 20:02:58	32	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+29/03/2024 20:02:58	32	21. Kuaca nika tumbasa antuk ida	4	21
+29/03/2024 20:02:58	32	22. Kuaca nika katumbas antuk ida	5	22
+29/03/2024 20:02:58	32	23. Montor nika kaadol antuk ida	4	23
+29/03/2024 20:02:58	32	24. Montor nika adola antuk ida	5	24
+31/03/2024 13:32:04	33	1. Ia nyelap katanjung teken I Nyoman	2	1
+31/03/2024 13:32:04	33	2. Ia nyelap tanjunga teken I Nyoman	3	2
+31/03/2024 13:32:04	33	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+31/03/2024 13:32:04	33	4. Ia nyelap kalempag teken I Made	3	4
+31/03/2024 13:32:04	33	5. Ia nyelap lempaga teken I Made	5	5
+31/03/2024 13:32:04	33	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+31/03/2024 13:32:04	33	7. Da Nyoman lempaga	2	7
+31/03/2024 13:32:04	33	8. Da Nyoman kalempag	4	8
+31/03/2024 13:32:04	33	9. Da Made tanjunga	5	9
+31/03/2024 13:32:04	33	10. Da Made katanjung	2	10
+31/03/2024 13:32:04	33	11. Luune kasampatang makelone limang menit	3	11
+31/03/2024 13:32:04	33	12. Luune sampatanga makelone limang menit	4	12
+31/03/2024 13:32:04	33	13. Anake ento katinjak makelone duang detik	1	13
+31/03/2024 13:32:04	33	14. Anake ento tinjaka makelone duang detik	4	14
+31/03/2024 13:32:04	33	15. Anake ento katanjung makelone duang detik	5	15
+31/03/2024 13:32:04	33	16. Anake ento tanjunga makelone duang detik	4	16
+31/03/2024 13:32:04	33	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+31/03/2024 13:32:04	33	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 13:32:04	33	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 13:32:04	33	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+31/03/2024 13:32:04	33	21. Kuaca nika tumbasa antuk ida	2	21
+31/03/2024 13:32:04	33	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 13:32:04	33	23. Montor nika kaadol antuk ida	3	23
+31/03/2024 13:32:04	33	24. Montor nika adola antuk ida	5	24
+31/03/2024 13:38:15	34	1. Ia nyelap katanjung teken I Nyoman	2	1
+31/03/2024 13:38:15	34	2. Ia nyelap tanjunga teken I Nyoman	5	2
+31/03/2024 13:38:15	34	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+31/03/2024 13:38:15	34	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 13:38:15	34	5. Ia nyelap lempaga teken I Made	2	5
+31/03/2024 13:38:15	34	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+31/03/2024 13:38:15	34	7. Da Nyoman lempaga	5	7
+31/03/2024 13:38:15	34	8. Da Nyoman kalempag	2	8
+31/03/2024 13:38:15	34	9. Da Made tanjunga	5	9
+31/03/2024 13:38:15	34	10. Da Made katanjung	2	10
+31/03/2024 13:38:15	34	11. Luune kasampatang makelone limang menit	5	11
+31/03/2024 13:38:15	34	12. Luune sampatanga makelone limang menit	2	12
+31/03/2024 13:38:15	34	13. Anake ento katinjak makelone duang detik	2	13
+31/03/2024 13:38:15	34	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 13:38:15	34	15. Anake ento katanjung makelone duang detik	5	15
+31/03/2024 13:38:15	34	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 13:38:15	34	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+31/03/2024 13:38:15	34	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+31/03/2024 13:38:15	34	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	2	19
+31/03/2024 13:38:15	34	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+31/03/2024 13:38:15	34	21. Kuaca nika tumbasa antuk ida	2	21
+31/03/2024 13:38:15	34	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 13:38:15	34	23. Montor nika kaadol antuk ida	5	23
+31/03/2024 13:38:15	34	24. Montor nika adola antuk ida	2	24
+31/03/2024 13:45:07	35	1. Ia nyelap katanjung teken I Nyoman	2	1
+31/03/2024 13:45:07	35	2. Ia nyelap tanjunga teken I Nyoman	2	2
+31/03/2024 13:45:07	35	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 13:45:07	35	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 13:45:07	35	5. Ia nyelap lempaga teken I Made	2	5
+31/03/2024 13:45:07	35	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+31/03/2024 13:45:07	35	7. Da Nyoman lempaga	2	7
+31/03/2024 13:45:07	35	8. Da Nyoman kalempag	2	8
+31/03/2024 13:45:07	35	9. Da Made tanjunga	3	9
+31/03/2024 13:45:07	35	10. Da Made katanjung	1	10
+31/03/2024 13:45:07	35	11. Luune kasampatang makelone limang menit	3	11
+31/03/2024 13:45:07	35	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 13:45:07	35	13. Anake ento katinjak makelone duang detik	3	13
+31/03/2024 13:45:07	35	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 13:45:07	35	15. Anake ento katanjung makelone duang detik	3	15
+31/03/2024 13:45:07	35	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 13:45:07	35	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 13:45:07	35	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 13:45:07	35	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 13:45:07	35	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+31/03/2024 13:45:07	35	21. Kuaca nika tumbasa antuk ida	4	21
+31/03/2024 13:45:07	35	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 13:45:07	35	23. Montor nika kaadol antuk ida	5	23
+31/03/2024 13:45:07	35	24. Montor nika adola antuk ida	4	24
+31/03/2024 13:45:58	36	1. Ia nyelap katanjung teken I Nyoman	5	1
+31/03/2024 13:45:58	36	2. Ia nyelap tanjunga teken I Nyoman	5	2
+31/03/2024 13:45:58	36	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 13:45:58	36	4. Ia nyelap kalempag teken I Made	5	4
+31/03/2024 13:45:58	36	5. Ia nyelap lempaga teken I Made	5	5
+31/03/2024 13:45:58	36	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+31/03/2024 13:45:58	36	7. Da Nyoman lempaga	5	7
+31/03/2024 13:45:58	36	8. Da Nyoman kalempag	5	8
+31/03/2024 13:45:58	36	9. Da Made tanjunga	5	9
+31/03/2024 13:45:58	36	10. Da Made katanjung	5	10
+31/03/2024 13:45:58	36	11. Luune kasampatang makelone limang menit	5	11
+31/03/2024 13:45:58	36	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 13:45:58	36	13. Anake ento katinjak makelone duang detik	5	13
+31/03/2024 13:45:58	36	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 13:45:58	36	15. Anake ento katanjung makelone duang detik	5	15
+31/03/2024 13:45:58	36	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 13:45:58	36	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 13:45:58	36	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+31/03/2024 13:45:58	36	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 13:45:58	36	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+31/03/2024 13:45:58	36	21. Kuaca nika tumbasa antuk ida	5	21
+31/03/2024 13:45:58	36	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 13:45:58	36	23. Montor nika kaadol antuk ida	5	23
+31/03/2024 13:45:58	36	24. Montor nika adola antuk ida	5	24
+31/03/2024 13:52:10	37	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 13:52:10	37	2. Ia nyelap tanjunga teken I Nyoman	2	2
+31/03/2024 13:52:10	37	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 13:52:10	37	4. Ia nyelap kalempag teken I Made	1	4
+31/03/2024 13:52:10	37	5. Ia nyelap lempaga teken I Made	2	5
+31/03/2024 13:52:10	37	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+31/03/2024 13:52:10	37	7. Da Nyoman lempaga	5	7
+31/03/2024 13:52:10	37	8. Da Nyoman kalempag	1	8
+31/03/2024 13:52:10	37	9. Da Made tanjunga	5	9
+31/03/2024 13:52:10	37	10. Da Made katanjung	1	10
+31/03/2024 13:52:10	37	11. Luune kasampatang makelone limang menit	3	11
+31/03/2024 13:52:10	37	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 13:52:10	37	13. Anake ento katinjak makelone duang detik	3	13
+31/03/2024 13:52:10	37	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 13:52:10	37	15. Anake ento katanjung makelone duang detik	3	15
+31/03/2024 13:52:10	37	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 13:52:10	37	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 13:52:10	37	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+31/03/2024 13:52:10	37	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 13:52:10	37	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+31/03/2024 13:52:10	37	21. Kuaca nika tumbasa antuk ida	2	21
+31/03/2024 13:52:10	37	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 13:52:10	37	23. Montor nika kaadol antuk ida	5	23
+31/03/2024 13:52:10	37	24. Montor nika adola antuk ida	2	24
+31/03/2024 13:58:44	38	1. Ia nyelap katanjung teken I Nyoman	2	1
+31/03/2024 13:58:44	38	2. Ia nyelap tanjunga teken I Nyoman	2	2
+31/03/2024 13:58:44	38	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 13:58:44	38	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 13:58:44	38	5. Ia nyelap lempaga teken I Made	4	5
+31/03/2024 13:58:44	38	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+31/03/2024 13:58:44	38	7. Da Nyoman lempaga	3	7
+31/03/2024 13:58:44	38	8. Da Nyoman kalempag	3	8
+31/03/2024 13:58:44	38	9. Da Made tanjunga	5	9
+31/03/2024 13:58:44	38	10. Da Made katanjung	5	10
+31/03/2024 13:58:44	38	11. Luune kasampatang makelone limang menit	1	11
+31/03/2024 13:58:44	38	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 13:58:44	38	13. Anake ento katinjak makelone duang detik	2	13
+31/03/2024 13:58:44	38	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 13:58:44	38	15. Anake ento katanjung makelone duang detik	5	15
+31/03/2024 13:58:44	38	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 13:58:44	38	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+31/03/2024 13:58:44	38	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+31/03/2024 13:58:44	38	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 13:58:44	38	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+31/03/2024 13:58:44	38	21. Kuaca nika tumbasa antuk ida	2	21
+31/03/2024 13:58:44	38	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 13:58:44	38	23. Montor nika kaadol antuk ida	2	23
+31/03/2024 13:58:44	38	24. Montor nika adola antuk ida	4	24
+31/03/2024 14:15:24	39	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 14:15:24	39	2. Ia nyelap tanjunga teken I Nyoman	5	2
+31/03/2024 14:15:24	39	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 14:15:24	39	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 14:15:24	39	5. Ia nyelap lempaga teken I Made	5	5
+31/03/2024 14:15:24	39	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+31/03/2024 14:15:24	39	7. Da Nyoman lempaga	5	7
+31/03/2024 14:15:24	39	8. Da Nyoman kalempag	1	8
+31/03/2024 14:15:24	39	9. Da Made tanjunga	5	9
+31/03/2024 14:15:24	39	10. Da Made katanjung	1	10
+31/03/2024 14:15:24	39	11. Luune kasampatang makelone limang menit	2	11
+31/03/2024 14:15:24	39	12. Luune sampatanga makelone limang menit	4	12
+31/03/2024 14:15:24	39	13. Anake ento katinjak makelone duang detik	2	13
+31/03/2024 14:15:24	39	14. Anake ento tinjaka makelone duang detik	4	14
+31/03/2024 14:15:24	39	15. Anake ento katanjung makelone duang detik	3	15
+31/03/2024 14:15:24	39	16. Anake ento tanjunga makelone duang detik	4	16
+31/03/2024 14:15:24	39	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+31/03/2024 14:15:24	39	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 14:15:24	39	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 14:15:24	39	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+31/03/2024 14:15:24	39	21. Kuaca nika tumbasa antuk ida	2	21
+31/03/2024 14:15:24	39	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 14:15:24	39	23. Montor nika kaadol antuk ida	2	23
+31/03/2024 14:15:24	39	24. Montor nika adola antuk ida	4	24
+31/03/2024 14:20:26	40	1. Ia nyelap katanjung teken I Nyoman	5	1
+31/03/2024 14:20:26	40	2. Ia nyelap tanjunga teken I Nyoman	3	2
+31/03/2024 14:20:26	40	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+31/03/2024 14:20:26	40	4. Ia nyelap kalempag teken I Made	3	4
+31/03/2024 14:20:26	40	5. Ia nyelap lempaga teken I Made	2	5
+31/03/2024 14:20:26	40	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+31/03/2024 14:20:26	40	7. Da Nyoman lempaga	3	7
+31/03/2024 14:20:26	40	8. Da Nyoman kalempag	3	8
+31/03/2024 14:20:26	40	9. Da Made tanjunga	4	9
+31/03/2024 14:20:26	40	10. Da Made katanjung	4	10
+31/03/2024 14:20:26	40	11. Luune kasampatang makelone limang menit	5	11
+31/03/2024 14:20:26	40	12. Luune sampatanga makelone limang menit	3	12
+31/03/2024 14:20:26	40	13. Anake ento katinjak makelone duang detik	4	13
+31/03/2024 14:20:26	40	14. Anake ento tinjaka makelone duang detik	3	14
+31/03/2024 14:20:26	40	15. Anake ento katanjung makelone duang detik	4	15
+31/03/2024 14:20:26	40	16. Anake ento tanjunga makelone duang detik	3	16
+31/03/2024 14:20:26	40	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+31/03/2024 14:20:26	40	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 14:20:26	40	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 14:20:26	40	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+31/03/2024 14:20:26	40	21. Kuaca nika tumbasa antuk ida	3	21
+31/03/2024 14:20:26	40	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 14:20:26	40	23. Montor nika kaadol antuk ida	3	23
+31/03/2024 14:20:26	40	24. Montor nika adola antuk ida	4	24
+31/03/2024 14:35:06	41	1. Ia nyelap katanjung teken I Nyoman	2	1
+31/03/2024 14:35:06	41	2. Ia nyelap tanjunga teken I Nyoman	4	2
+31/03/2024 14:35:06	41	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+31/03/2024 14:35:06	41	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 14:35:06	41	5. Ia nyelap lempaga teken I Made	4	5
+31/03/2024 14:35:06	41	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+31/03/2024 14:35:06	41	7. Da Nyoman lempaga	4	7
+31/03/2024 14:35:06	41	8. Da Nyoman kalempag	1	8
+31/03/2024 14:35:06	41	9. Da Made tanjunga	3	9
+31/03/2024 14:35:06	41	10. Da Made katanjung	1	10
+31/03/2024 14:35:06	41	11. Luune kasampatang makelone limang menit	2	11
+31/03/2024 14:35:06	41	12. Luune sampatanga makelone limang menit	3	12
+31/03/2024 14:35:06	41	13. Anake ento katinjak makelone duang detik	2	13
+31/03/2024 14:35:06	41	14. Anake ento tinjaka makelone duang detik	3	14
+31/03/2024 14:35:06	41	15. Anake ento katanjung makelone duang detik	2	15
+31/03/2024 14:35:06	41	16. Anake ento tanjunga makelone duang detik	3	16
+31/03/2024 14:35:06	41	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+31/03/2024 14:35:06	41	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+31/03/2024 14:35:06	41	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 14:35:06	41	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+31/03/2024 14:35:06	41	21. Kuaca nika tumbasa antuk ida	4	21
+31/03/2024 14:35:06	41	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 14:35:06	41	23. Montor nika kaadol antuk ida	4	23
+31/03/2024 14:35:06	41	24. Montor nika adola antuk ida	3	24
+31/03/2024 14:38:26	42	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 14:38:26	42	2. Ia nyelap tanjunga teken I Nyoman	4	2
+31/03/2024 14:38:26	42	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 14:38:26	42	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 14:38:26	42	5. Ia nyelap lempaga teken I Made	3	5
+31/03/2024 14:38:26	42	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+31/03/2024 14:38:26	42	7. Da Nyoman lempaga	3	7
+31/03/2024 14:38:26	42	8. Da Nyoman kalempag	1	8
+31/03/2024 14:38:26	42	9. Da Made tanjunga	4	9
+31/03/2024 14:38:26	42	10. Da Made katanjung	1	10
+31/03/2024 14:38:26	42	11. Luune kasampatang makelone limang menit	2	11
+31/03/2024 14:38:26	42	12. Luune sampatanga makelone limang menit	3	12
+31/03/2024 14:38:26	42	13. Anake ento katinjak makelone duang detik	1	13
+31/03/2024 14:38:26	42	14. Anake ento tinjaka makelone duang detik	3	14
+31/03/2024 14:38:26	42	15. Anake ento katanjung makelone duang detik	1	15
+31/03/2024 14:38:26	42	16. Anake ento tanjunga makelone duang detik	3	16
+31/03/2024 14:38:26	42	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+31/03/2024 14:38:26	42	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+31/03/2024 14:38:26	42	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 14:38:26	42	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+31/03/2024 14:38:26	42	21. Kuaca nika tumbasa antuk ida	3	21
+31/03/2024 14:38:26	42	22. Kuaca nika katumbas antuk ida	2	22
+31/03/2024 14:38:26	42	23. Montor nika kaadol antuk ida	2	23
+31/03/2024 14:38:26	42	24. Montor nika adola antuk ida	4	24
+31/03/2024 14:42:54	43	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 14:42:54	43	2. Ia nyelap tanjunga teken I Nyoman	1	2
+31/03/2024 14:42:54	43	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+31/03/2024 14:42:54	43	4. Ia nyelap kalempag teken I Made	1	4
+31/03/2024 14:42:54	43	5. Ia nyelap lempaga teken I Made	1	5
+31/03/2024 14:42:54	43	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+31/03/2024 14:42:54	43	7. Da Nyoman lempaga	5	7
+31/03/2024 14:42:54	43	8. Da Nyoman kalempag	2	8
+31/03/2024 14:42:54	43	9. Da Made tanjunga	3	9
+31/03/2024 14:42:54	43	10. Da Made katanjung	4	10
+31/03/2024 14:42:54	43	11. Luune kasampatang makelone limang menit	4	11
+31/03/2024 14:42:54	43	12. Luune sampatanga makelone limang menit	2	12
+31/03/2024 14:42:54	43	13. Anake ento katinjak makelone duang detik	3	13
+31/03/2024 14:42:54	43	14. Anake ento tinjaka makelone duang detik	3	14
+31/03/2024 14:42:54	43	15. Anake ento katanjung makelone duang detik	2	15
+31/03/2024 14:42:54	43	16. Anake ento tanjunga makelone duang detik	3	16
+31/03/2024 14:42:54	43	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+31/03/2024 14:42:54	43	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+31/03/2024 14:42:54	43	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+31/03/2024 14:42:54	43	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+31/03/2024 14:42:54	43	21. Kuaca nika tumbasa antuk ida	1	21
+31/03/2024 14:42:54	43	22. Kuaca nika katumbas antuk ida	2	22
+31/03/2024 14:42:54	43	23. Montor nika kaadol antuk ida	2	23
+31/03/2024 14:42:54	43	24. Montor nika adola antuk ida	1	24
+31/03/2024 14:56:24	44	1. Ia nyelap katanjung teken I Nyoman	2	1
+31/03/2024 14:56:24	44	2. Ia nyelap tanjunga teken I Nyoman	4	2
+31/03/2024 14:56:24	44	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 14:56:24	44	4. Ia nyelap kalempag teken I Made	1	4
+31/03/2024 14:56:24	44	5. Ia nyelap lempaga teken I Made	1	5
+31/03/2024 14:56:24	44	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+31/03/2024 14:56:24	44	7. Da Nyoman lempaga	4	7
+31/03/2024 14:56:24	44	8. Da Nyoman kalempag	3	8
+31/03/2024 14:56:24	44	9. Da Made tanjunga	3	9
+31/03/2024 14:56:24	44	10. Da Made katanjung	4	10
+31/03/2024 14:56:24	44	11. Luune kasampatang makelone limang menit	5	11
+31/03/2024 14:56:24	44	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 14:56:24	44	13. Anake ento katinjak makelone duang detik	4	13
+31/03/2024 14:56:24	44	14. Anake ento tinjaka makelone duang detik	3	14
+31/03/2024 14:56:24	44	15. Anake ento katanjung makelone duang detik	2	15
+31/03/2024 14:56:24	44	16. Anake ento tanjunga makelone duang detik	4	16
+31/03/2024 14:56:24	44	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 14:56:24	44	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 14:56:24	44	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+31/03/2024 14:56:24	44	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+31/03/2024 14:56:24	44	21. Kuaca nika tumbasa antuk ida	4	21
+31/03/2024 14:56:24	44	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 14:56:24	44	23. Montor nika kaadol antuk ida	2	23
+31/03/2024 14:56:24	44	24. Montor nika adola antuk ida	4	24
+31/03/2024 15:24:33	45	1. Ia nyelap katanjung teken I Nyoman	3	1
+31/03/2024 15:24:33	45	2. Ia nyelap tanjunga teken I Nyoman	4	2
+31/03/2024 15:24:33	45	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+31/03/2024 15:24:33	45	4. Ia nyelap kalempag teken I Made	3	4
+31/03/2024 15:24:33	45	5. Ia nyelap lempaga teken I Made	4	5
+31/03/2024 15:24:33	45	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+31/03/2024 15:24:33	45	7. Da Nyoman lempaga	2	7
+31/03/2024 15:24:33	45	8. Da Nyoman kalempag	3	8
+31/03/2024 15:24:33	45	9. Da Made tanjunga	3	9
+31/03/2024 15:24:33	45	10. Da Made katanjung	3	10
+31/03/2024 15:24:33	45	11. Luune kasampatang makelone limang menit	4	11
+31/03/2024 15:24:33	45	12. Luune sampatanga makelone limang menit	4	12
+31/03/2024 15:24:33	45	13. Anake ento katinjak makelone duang detik	4	13
+31/03/2024 15:24:33	45	14. Anake ento tinjaka makelone duang detik	4	14
+31/03/2024 15:24:33	45	15. Anake ento katanjung makelone duang detik	4	15
+31/03/2024 15:24:33	45	16. Anake ento tanjunga makelone duang detik	4	16
+31/03/2024 15:24:33	45	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+31/03/2024 15:24:33	45	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 15:24:33	45	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 15:24:33	45	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+31/03/2024 15:24:33	45	21. Kuaca nika tumbasa antuk ida	4	21
+31/03/2024 15:24:33	45	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 15:24:33	45	23. Montor nika kaadol antuk ida	4	23
+31/03/2024 15:24:33	45	24. Montor nika adola antuk ida	4	24
+31/03/2024 15:27:46	46	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 15:27:46	46	2. Ia nyelap tanjunga teken I Nyoman	1	2
+31/03/2024 15:27:46	46	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 15:27:46	46	4. Ia nyelap kalempag teken I Made	1	4
+31/03/2024 15:27:46	46	5. Ia nyelap lempaga teken I Made	5	5
+31/03/2024 15:27:46	46	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+31/03/2024 15:27:46	46	7. Da Nyoman lempaga	2	7
+31/03/2024 15:27:46	46	8. Da Nyoman kalempag	1	8
+31/03/2024 15:27:46	46	9. Da Made tanjunga	3	9
+31/03/2024 15:27:46	46	10. Da Made katanjung	1	10
+31/03/2024 15:27:46	46	11. Luune kasampatang makelone limang menit	2	11
+31/03/2024 15:27:46	46	12. Luune sampatanga makelone limang menit	4	12
+31/03/2024 15:27:46	46	13. Anake ento katinjak makelone duang detik	2	13
+31/03/2024 15:27:46	46	14. Anake ento tinjaka makelone duang detik	4	14
+31/03/2024 15:27:46	46	15. Anake ento katanjung makelone duang detik	3	15
+31/03/2024 15:27:46	46	16. Anake ento tanjunga makelone duang detik	3	16
+31/03/2024 15:27:46	46	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 15:27:46	46	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+31/03/2024 15:27:46	46	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 15:27:46	46	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+31/03/2024 15:27:46	46	21. Kuaca nika tumbasa antuk ida	2	21
+31/03/2024 15:27:46	46	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 15:27:46	46	23. Montor nika kaadol antuk ida	1	23
+31/03/2024 15:27:46	46	24. Montor nika adola antuk ida	2	24
+31/03/2024 16:03:37	47	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 16:03:37	47	2. Ia nyelap tanjunga teken I Nyoman	5	2
+31/03/2024 16:03:37	47	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+31/03/2024 16:03:37	47	4. Ia nyelap kalempag teken I Made	1	4
+31/03/2024 16:03:37	47	5. Ia nyelap lempaga teken I Made	5	5
+31/03/2024 16:03:37	47	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+31/03/2024 16:03:37	47	7. Da Nyoman lempaga	5	7
+31/03/2024 16:03:37	47	8. Da Nyoman kalempag	1	8
+31/03/2024 16:03:37	47	9. Da Made tanjunga	5	9
+31/03/2024 16:03:37	47	10. Da Made katanjung	1	10
+31/03/2024 16:03:37	47	11. Luune kasampatang makelone limang menit	1	11
+31/03/2024 16:03:37	47	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 16:03:37	47	13. Anake ento katinjak makelone duang detik	1	13
+31/03/2024 16:03:37	47	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 16:03:37	47	15. Anake ento katanjung makelone duang detik	1	15
+31/03/2024 16:03:37	47	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 16:03:37	47	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 16:03:37	47	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+31/03/2024 16:03:37	47	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 16:03:37	47	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+31/03/2024 16:03:37	47	21. Kuaca nika tumbasa antuk ida	4	21
+31/03/2024 16:03:37	47	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 16:03:37	47	23. Montor nika kaadol antuk ida	5	23
+31/03/2024 16:03:37	47	24. Montor nika adola antuk ida	4	24
+31/03/2024 16:29:51	48	1. Ia nyelap katanjung teken I Nyoman	1	1
+31/03/2024 16:29:51	48	2. Ia nyelap tanjunga teken I Nyoman	3	2
+31/03/2024 16:29:51	48	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 16:29:51	48	4. Ia nyelap kalempag teken I Made	1	4
+31/03/2024 16:29:51	48	5. Ia nyelap lempaga teken I Made	3	5
+31/03/2024 16:29:51	48	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+31/03/2024 16:29:51	48	7. Da Nyoman lempaga	5	7
+31/03/2024 16:29:51	48	8. Da Nyoman kalempag	1	8
+31/03/2024 16:29:51	48	9. Da Made tanjunga	5	9
+31/03/2024 16:29:51	48	10. Da Made katanjung	1	10
+31/03/2024 16:29:51	48	11. Luune kasampatang makelone limang menit	1	11
+31/03/2024 16:29:51	48	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 16:29:51	48	13. Anake ento katinjak makelone duang detik	1	13
+31/03/2024 16:29:51	48	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 16:29:51	48	15. Anake ento katanjung makelone duang detik	1	15
+31/03/2024 16:29:51	48	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 16:29:51	48	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 16:29:51	48	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+31/03/2024 16:29:51	48	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 16:29:51	48	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+31/03/2024 16:29:51	48	21. Kuaca nika tumbasa antuk ida	1	21
+31/03/2024 16:29:51	48	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 16:29:51	48	23. Montor nika kaadol antuk ida	1	23
+31/03/2024 16:29:51	48	24. Montor nika adola antuk ida	5	24
+31/03/2024 16:34:41	49	1. Ia nyelap katanjung teken I Nyoman	4	1
+31/03/2024 16:34:41	49	2. Ia nyelap tanjunga teken I Nyoman	4	2
+31/03/2024 16:34:41	49	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 16:34:41	49	4. Ia nyelap kalempag teken I Made	3	4
+31/03/2024 16:34:41	49	5. Ia nyelap lempaga teken I Made	4	5
+31/03/2024 16:34:41	49	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+31/03/2024 16:34:41	49	7. Da Nyoman lempaga	5	7
+31/03/2024 16:34:41	49	8. Da Nyoman kalempag	2	8
+31/03/2024 16:34:41	49	9. Da Made tanjunga	5	9
+31/03/2024 16:34:41	49	10. Da Made katanjung	2	10
+31/03/2024 16:34:41	49	11. Luune kasampatang makelone limang menit	5	11
+31/03/2024 16:34:41	49	12. Luune sampatanga makelone limang menit	5	12
+31/03/2024 16:34:41	49	13. Anake ento katinjak makelone duang detik	4	13
+31/03/2024 16:34:41	49	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 16:34:41	49	15. Anake ento katanjung makelone duang detik	5	15
+31/03/2024 16:34:41	49	16. Anake ento tanjunga makelone duang detik	5	16
+31/03/2024 16:34:41	49	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+31/03/2024 16:34:41	49	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 16:34:41	49	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+31/03/2024 16:34:41	49	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+31/03/2024 16:34:41	49	21. Kuaca nika tumbasa antuk ida	3	21
+31/03/2024 16:34:41	49	22. Kuaca nika katumbas antuk ida	5	22
+31/03/2024 16:34:41	49	23. Montor nika kaadol antuk ida	5	23
+31/03/2024 16:34:41	49	24. Montor nika adola antuk ida	4	24
+31/03/2024 17:07:35	50	1. Ia nyelap katanjung teken I Nyoman	3	1
+31/03/2024 17:07:35	50	2. Ia nyelap tanjunga teken I Nyoman	4	2
+31/03/2024 17:07:35	50	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+31/03/2024 17:07:35	50	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 17:07:35	50	5. Ia nyelap lempaga teken I Made	5	5
+31/03/2024 17:07:35	50	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+31/03/2024 17:07:35	50	7. Da Nyoman lempaga	5	7
+31/03/2024 17:07:35	50	8. Da Nyoman kalempag	4	8
+31/03/2024 17:07:35	50	9. Da Made tanjunga	5	9
+31/03/2024 17:07:35	50	10. Da Made katanjung	2	10
+31/03/2024 17:07:35	50	11. Luune kasampatang makelone limang menit	3	11
+31/03/2024 17:07:35	50	12. Luune sampatanga makelone limang menit	4	12
+31/03/2024 17:07:35	50	13. Anake ento katinjak makelone duang detik	3	13
+31/03/2024 17:07:35	50	14. Anake ento tinjaka makelone duang detik	5	14
+31/03/2024 17:07:35	50	15. Anake ento katanjung makelone duang detik	4	15
+31/03/2024 17:07:35	50	16. Anake ento tanjunga makelone duang detik	4	16
+31/03/2024 17:07:35	50	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+31/03/2024 17:07:35	50	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+31/03/2024 17:07:35	50	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+31/03/2024 17:07:35	50	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+31/03/2024 17:07:35	50	21. Kuaca nika tumbasa antuk ida	4	21
+31/03/2024 17:07:35	50	22. Kuaca nika katumbas antuk ida	4	22
+31/03/2024 17:07:35	50	23. Montor nika kaadol antuk ida	4	23
+31/03/2024 17:07:35	50	24. Montor nika adola antuk ida	4	24
+31/03/2024 19:24:44	51	1. Ia nyelap katanjung teken I Nyoman	3	1
+31/03/2024 19:24:44	51	2. Ia nyelap tanjunga teken I Nyoman	3	2
+31/03/2024 19:24:44	51	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+31/03/2024 19:24:44	51	4. Ia nyelap kalempag teken I Made	2	4
+31/03/2024 19:24:44	51	5. Ia nyelap lempaga teken I Made	3	5
+31/03/2024 19:24:44	51	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+31/03/2024 19:24:44	51	7. Da Nyoman lempaga	4	7
+31/03/2024 19:24:44	51	8. Da Nyoman kalempag	2	8
+31/03/2024 19:24:44	51	9. Da Made tanjunga	3	9
+31/03/2024 19:24:44	51	10. Da Made katanjung	2	10
+31/03/2024 19:24:44	51	11. Luune kasampatang makelone limang menit	4	11
+31/03/2024 19:24:44	51	12. Luune sampatanga makelone limang menit	4	12
+31/03/2024 19:24:44	51	13. Anake ento katinjak makelone duang detik	2	13
+31/03/2024 19:24:44	51	14. Anake ento tinjaka makelone duang detik	2	14
+31/03/2024 19:24:44	51	15. Anake ento katanjung makelone duang detik	2	15
+31/03/2024 19:24:44	51	16. Anake ento tanjunga makelone duang detik	2	16
+31/03/2024 19:24:44	51	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+31/03/2024 19:24:44	51	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+31/03/2024 19:24:44	51	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+31/03/2024 19:24:44	51	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+31/03/2024 19:24:44	51	21. Kuaca nika tumbasa antuk ida	5	21
+31/03/2024 19:24:44	51	22. Kuaca nika katumbas antuk ida	3	22
+31/03/2024 19:24:44	51	23. Montor nika kaadol antuk ida	2	23
+31/03/2024 19:24:44	51	24. Montor nika adola antuk ida	2	24
+01/04/2024 9:31:06	52	1. Ia nyelap katanjung teken I Nyoman	1	1
+01/04/2024 9:31:06	52	2. Ia nyelap tanjunga teken I Nyoman	3	2
+01/04/2024 9:31:06	52	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+01/04/2024 9:31:06	52	4. Ia nyelap kalempag teken I Made	3	4
+01/04/2024 9:31:06	52	5. Ia nyelap lempaga teken I Made	3	5
+01/04/2024 9:31:06	52	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+01/04/2024 9:31:06	52	7. Da Nyoman lempaga	3	7
+01/04/2024 9:31:06	52	8. Da Nyoman kalempag	3	8
+01/04/2024 9:31:06	52	9. Da Made tanjunga	3	9
+01/04/2024 9:31:06	52	10. Da Made katanjung	3	10
+01/04/2024 9:31:06	52	11. Luune kasampatang makelone limang menit	3	11
+01/04/2024 9:31:06	52	12. Luune sampatanga makelone limang menit	3	12
+01/04/2024 9:31:06	52	13. Anake ento katinjak makelone duang detik	3	13
+01/04/2024 9:31:06	52	14. Anake ento tinjaka makelone duang detik	3	14
+01/04/2024 9:31:06	52	15. Anake ento katanjung makelone duang detik	3	15
+01/04/2024 9:31:06	52	16. Anake ento tanjunga makelone duang detik	3	16
+01/04/2024 9:31:06	52	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+01/04/2024 9:31:06	52	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+01/04/2024 9:31:06	52	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+01/04/2024 9:31:06	52	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+01/04/2024 9:31:06	52	21. Kuaca nika tumbasa antuk ida	3	21
+01/04/2024 9:31:06	52	22. Kuaca nika katumbas antuk ida	3	22
+01/04/2024 9:31:06	52	23. Montor nika kaadol antuk ida	3	23
+01/04/2024 9:31:06	52	24. Montor nika adola antuk ida	3	24
+01/04/2024 10:06:17	53	1. Ia nyelap katanjung teken I Nyoman	4	1
+01/04/2024 10:06:17	53	2. Ia nyelap tanjunga teken I Nyoman	4	2
+01/04/2024 10:06:17	53	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+01/04/2024 10:06:17	53	4. Ia nyelap kalempag teken I Made	3	4
+01/04/2024 10:06:17	53	5. Ia nyelap lempaga teken I Made	5	5
+01/04/2024 10:06:17	53	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+01/04/2024 10:06:17	53	7. Da Nyoman lempaga	3	7
+01/04/2024 10:06:17	53	8. Da Nyoman kalempag	5	8
+01/04/2024 10:06:17	53	9. Da Made tanjunga	5	9
+01/04/2024 10:06:17	53	10. Da Made katanjung	3	10
+01/04/2024 10:06:17	53	11. Luune kasampatang makelone limang menit	5	11
+01/04/2024 10:06:17	53	12. Luune sampatanga makelone limang menit	5	12
+01/04/2024 10:06:17	53	13. Anake ento katinjak makelone duang detik	5	13
+01/04/2024 10:06:17	53	14. Anake ento tinjaka makelone duang detik	3	14
+01/04/2024 10:06:17	53	15. Anake ento katanjung makelone duang detik	5	15
+01/04/2024 10:06:17	53	16. Anake ento tanjunga makelone duang detik	5	16
+01/04/2024 10:06:17	53	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+01/04/2024 10:06:17	53	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+01/04/2024 10:06:17	53	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+01/04/2024 10:06:17	53	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+01/04/2024 10:06:17	53	21. Kuaca nika tumbasa antuk ida	5	21
+01/04/2024 10:06:17	53	22. Kuaca nika katumbas antuk ida	3	22
+01/04/2024 10:06:17	53	23. Montor nika kaadol antuk ida	4	23
+01/04/2024 10:06:17	53	24. Montor nika adola antuk ida	5	24
+02/04/2024 11:43:41	54	1. Ia nyelap katanjung teken I Nyoman	2	1
+02/04/2024 11:43:41	54	2. Ia nyelap tanjunga teken I Nyoman	2	2
+02/04/2024 11:43:41	54	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+02/04/2024 11:43:41	54	4. Ia nyelap kalempag teken I Made	2	4
+02/04/2024 11:43:41	54	5. Ia nyelap lempaga teken I Made	4	5
+02/04/2024 11:43:41	54	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+02/04/2024 11:43:41	54	7. Da Nyoman lempaga	1	7
+02/04/2024 11:43:41	54	8. Da Nyoman kalempag	1	8
+02/04/2024 11:43:41	54	9. Da Made tanjunga	2	9
+02/04/2024 11:43:41	54	10. Da Made katanjung	2	10
+02/04/2024 11:43:41	54	11. Luune kasampatang makelone limang menit	3	11
+02/04/2024 11:43:41	54	12. Luune sampatanga makelone limang menit	5	12
+02/04/2024 11:43:41	54	13. Anake ento katinjak makelone duang detik	2	13
+02/04/2024 11:43:41	54	14. Anake ento tinjaka makelone duang detik	4	14
+02/04/2024 11:43:41	54	15. Anake ento katanjung makelone duang detik	5	15
+02/04/2024 11:43:41	54	16. Anake ento tanjunga makelone duang detik	4	16
+02/04/2024 11:43:41	54	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+02/04/2024 11:43:41	54	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+02/04/2024 11:43:41	54	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	2	19
+02/04/2024 11:43:41	54	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+02/04/2024 11:43:41	54	21. Kuaca nika tumbasa antuk ida	3	21
+02/04/2024 11:43:41	54	22. Kuaca nika katumbas antuk ida	5	22
+02/04/2024 11:43:41	54	23. Montor nika kaadol antuk ida	2	23
+02/04/2024 11:43:41	54	24. Montor nika adola antuk ida	4	24
+02/04/2024 11:46:44	55	1. Ia nyelap katanjung teken I Nyoman	4	1
+02/04/2024 11:46:44	55	2. Ia nyelap tanjunga teken I Nyoman	4	2
+02/04/2024 11:46:44	55	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+02/04/2024 11:46:44	55	4. Ia nyelap kalempag teken I Made	2	4
+02/04/2024 11:46:44	55	5. Ia nyelap lempaga teken I Made	4	5
+02/04/2024 11:46:44	55	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+02/04/2024 11:46:44	55	7. Da Nyoman lempaga	4	7
+02/04/2024 11:46:44	55	8. Da Nyoman kalempag	2	8
+02/04/2024 11:46:44	55	9. Da Made tanjunga	2	9
+02/04/2024 11:46:44	55	10. Da Made katanjung	4	10
+02/04/2024 11:46:44	55	11. Luune kasampatang makelone limang menit	5	11
+02/04/2024 11:46:44	55	12. Luune sampatanga makelone limang menit	4	12
+02/04/2024 11:46:44	55	13. Anake ento katinjak makelone duang detik	2	13
+02/04/2024 11:46:44	55	14. Anake ento tinjaka makelone duang detik	4	14
+02/04/2024 11:46:44	55	15. Anake ento katanjung makelone duang detik	4	15
+02/04/2024 11:46:44	55	16. Anake ento tanjunga makelone duang detik	2	16
+02/04/2024 11:46:44	55	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+02/04/2024 11:46:44	55	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+02/04/2024 11:46:44	55	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+02/04/2024 11:46:44	55	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+02/04/2024 11:46:44	55	21. Kuaca nika tumbasa antuk ida	5	21
+02/04/2024 11:46:44	55	22. Kuaca nika katumbas antuk ida	5	22
+02/04/2024 11:46:44	55	23. Montor nika kaadol antuk ida	2	23
+02/04/2024 11:46:44	55	24. Montor nika adola antuk ida	5	24
+02/04/2024 21:44:40	56	1. Ia nyelap katanjung teken I Nyoman	3	1
+02/04/2024 21:44:40	56	2. Ia nyelap tanjunga teken I Nyoman	3	2
+02/04/2024 21:44:40	56	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+02/04/2024 21:44:40	56	4. Ia nyelap kalempag teken I Made	3	4
+02/04/2024 21:44:40	56	5. Ia nyelap lempaga teken I Made	4	5
+02/04/2024 21:44:40	56	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+02/04/2024 21:44:40	56	7. Da Nyoman lempaga	5	7
+02/04/2024 21:44:40	56	8. Da Nyoman kalempag	2	8
+02/04/2024 21:44:40	56	9. Da Made tanjunga	4	9
+02/04/2024 21:44:40	56	10. Da Made katanjung	2	10
+02/04/2024 21:44:40	56	11. Luune kasampatang makelone limang menit	2	11
+02/04/2024 21:44:40	56	12. Luune sampatanga makelone limang menit	3	12
+02/04/2024 21:44:40	56	13. Anake ento katinjak makelone duang detik	2	13
+02/04/2024 21:44:40	56	14. Anake ento tinjaka makelone duang detik	3	14
+02/04/2024 21:44:40	56	15. Anake ento katanjung makelone duang detik	3	15
+02/04/2024 21:44:40	56	16. Anake ento tanjunga makelone duang detik	3	16
+02/04/2024 21:44:40	56	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+02/04/2024 21:44:40	56	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+02/04/2024 21:44:40	56	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+02/04/2024 21:44:40	56	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+02/04/2024 21:44:40	56	21. Kuaca nika tumbasa antuk ida	3	21
+02/04/2024 21:44:40	56	22. Kuaca nika katumbas antuk ida	2	22
+02/04/2024 21:44:40	56	23. Montor nika kaadol antuk ida	3	23
+02/04/2024 21:44:40	56	24. Montor nika adola antuk ida	3	24
+03/04/2024 8:57:04	57	1. Ia nyelap katanjung teken I Nyoman	3	1
+03/04/2024 8:57:04	57	2. Ia nyelap tanjunga teken I Nyoman	3	2
+03/04/2024 8:57:04	57	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+03/04/2024 8:57:04	57	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 8:57:04	57	5. Ia nyelap lempaga teken I Made	3	5
+03/04/2024 8:57:04	57	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+03/04/2024 8:57:04	57	7. Da Nyoman lempaga	3	7
+03/04/2024 8:57:04	57	8. Da Nyoman kalempag	3	8
+03/04/2024 8:57:04	57	9. Da Made tanjunga	3	9
+03/04/2024 8:57:04	57	10. Da Made katanjung	3	10
+03/04/2024 8:57:04	57	11. Luune kasampatang makelone limang menit	4	11
+03/04/2024 8:57:04	57	12. Luune sampatanga makelone limang menit	4	12
+03/04/2024 8:57:04	57	13. Anake ento katinjak makelone duang detik	1	13
+03/04/2024 8:57:04	57	14. Anake ento tinjaka makelone duang detik	1	14
+03/04/2024 8:57:04	57	15. Anake ento katanjung makelone duang detik	3	15
+03/04/2024 8:57:04	57	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 8:57:04	57	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+03/04/2024 8:57:04	57	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+03/04/2024 8:57:04	57	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+03/04/2024 8:57:04	57	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 8:57:04	57	21. Kuaca nika tumbasa antuk ida	4	21
+03/04/2024 8:57:04	57	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 8:57:04	57	23. Montor nika kaadol antuk ida	3	23
+03/04/2024 8:57:04	57	24. Montor nika adola antuk ida	2	24
+03/04/2024 9:10:19	58	1. Ia nyelap katanjung teken I Nyoman	1	1
+03/04/2024 9:10:19	58	2. Ia nyelap tanjunga teken I Nyoman	3	2
+03/04/2024 9:10:19	58	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+03/04/2024 9:10:19	58	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 9:10:19	58	5. Ia nyelap lempaga teken I Made	3	5
+03/04/2024 9:10:19	58	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+03/04/2024 9:10:19	58	7. Da Nyoman lempaga	3	7
+03/04/2024 9:10:19	58	8. Da Nyoman kalempag	3	8
+03/04/2024 9:10:19	58	9. Da Made tanjunga	4	9
+03/04/2024 9:10:19	58	10. Da Made katanjung	5	10
+03/04/2024 9:10:19	58	11. Luune kasampatang makelone limang menit	3	11
+03/04/2024 9:10:19	58	12. Luune sampatanga makelone limang menit	3	12
+03/04/2024 9:10:19	58	13. Anake ento katinjak makelone duang detik	3	13
+03/04/2024 9:10:19	58	14. Anake ento tinjaka makelone duang detik	4	14
+03/04/2024 9:10:19	58	15. Anake ento katanjung makelone duang detik	2	15
+03/04/2024 9:10:19	58	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 9:10:19	58	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 9:10:19	58	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+03/04/2024 9:10:19	58	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+03/04/2024 9:10:19	58	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+03/04/2024 9:10:19	58	21. Kuaca nika tumbasa antuk ida	3	21
+03/04/2024 9:10:19	58	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 9:10:19	58	23. Montor nika kaadol antuk ida	4	23
+03/04/2024 9:10:19	58	24. Montor nika adola antuk ida	3	24
+03/04/2024 11:03:50	59	1. Ia nyelap katanjung teken I Nyoman	4	1
+03/04/2024 11:03:50	59	2. Ia nyelap tanjunga teken I Nyoman	5	2
+03/04/2024 11:03:50	59	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+03/04/2024 11:03:50	59	4. Ia nyelap kalempag teken I Made	4	4
+03/04/2024 11:03:50	59	5. Ia nyelap lempaga teken I Made	5	5
+03/04/2024 11:03:50	59	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+03/04/2024 11:03:50	59	7. Da Nyoman lempaga	5	7
+03/04/2024 11:03:50	59	8. Da Nyoman kalempag	4	8
+03/04/2024 11:03:50	59	9. Da Made tanjunga	5	9
+03/04/2024 11:03:50	59	10. Da Made katanjung	4	10
+03/04/2024 11:03:50	59	11. Luune kasampatang makelone limang menit	4	11
+03/04/2024 11:03:50	59	12. Luune sampatanga makelone limang menit	5	12
+03/04/2024 11:03:50	59	13. Anake ento katinjak makelone duang detik	4	13
+03/04/2024 11:03:50	59	14. Anake ento tinjaka makelone duang detik	5	14
+03/04/2024 11:03:50	59	15. Anake ento katanjung makelone duang detik	4	15
+03/04/2024 11:03:50	59	16. Anake ento tanjunga makelone duang detik	5	16
+03/04/2024 11:03:50	59	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 11:03:50	59	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+03/04/2024 11:03:50	59	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+03/04/2024 11:03:50	59	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+03/04/2024 11:03:50	59	21. Kuaca nika tumbasa antuk ida	5	21
+03/04/2024 11:03:50	59	22. Kuaca nika katumbas antuk ida	4	22
+03/04/2024 11:03:50	59	23. Montor nika kaadol antuk ida	4	23
+03/04/2024 11:03:50	59	24. Montor nika adola antuk ida	5	24
+03/04/2024 15:00:18	60	1. Ia nyelap katanjung teken I Nyoman	2	1
+03/04/2024 15:00:18	60	2. Ia nyelap tanjunga teken I Nyoman	3	2
+03/04/2024 15:00:18	60	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+03/04/2024 15:00:18	60	4. Ia nyelap kalempag teken I Made	1	4
+03/04/2024 15:00:18	60	5. Ia nyelap lempaga teken I Made	2	5
+03/04/2024 15:00:18	60	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+03/04/2024 15:00:18	60	7. Da Nyoman lempaga	5	7
+03/04/2024 15:00:18	60	8. Da Nyoman kalempag	2	8
+03/04/2024 15:00:18	60	9. Da Made tanjunga	5	9
+03/04/2024 15:00:18	60	10. Da Made katanjung	2	10
+03/04/2024 15:00:18	60	11. Luune kasampatang makelone limang menit	1	11
+03/04/2024 15:00:18	60	12. Luune sampatanga makelone limang menit	4	12
+03/04/2024 15:00:18	60	13. Anake ento katinjak makelone duang detik	3	13
+03/04/2024 15:00:18	60	14. Anake ento tinjaka makelone duang detik	5	14
+03/04/2024 15:00:18	60	15. Anake ento katanjung makelone duang detik	2	15
+03/04/2024 15:00:18	60	16. Anake ento tanjunga makelone duang detik	4	16
+03/04/2024 15:00:18	60	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 15:00:18	60	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+03/04/2024 15:00:18	60	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+03/04/2024 15:00:18	60	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+03/04/2024 15:00:18	60	21. Kuaca nika tumbasa antuk ida	4	21
+03/04/2024 15:00:18	60	22. Kuaca nika katumbas antuk ida	3	22
+03/04/2024 15:00:18	60	23. Montor nika kaadol antuk ida	3	23
+03/04/2024 15:00:18	60	24. Montor nika adola antuk ida	4	24
+03/04/2024 18:11:36	61	1. Ia nyelap katanjung teken I Nyoman	2	1
+03/04/2024 18:11:36	61	2. Ia nyelap tanjunga teken I Nyoman	3	2
+03/04/2024 18:11:36	61	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+03/04/2024 18:11:36	61	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 18:11:36	61	5. Ia nyelap lempaga teken I Made	3	5
+03/04/2024 18:11:36	61	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+03/04/2024 18:11:36	61	7. Da Nyoman lempaga	3	7
+03/04/2024 18:11:36	61	8. Da Nyoman kalempag	2	8
+03/04/2024 18:11:36	61	9. Da Made tanjunga	3	9
+03/04/2024 18:11:36	61	10. Da Made katanjung	2	10
+03/04/2024 18:11:36	61	11. Luune kasampatang makelone limang menit	2	11
+03/04/2024 18:11:36	61	12. Luune sampatanga makelone limang menit	3	12
+03/04/2024 18:11:36	61	13. Anake ento katinjak makelone duang detik	3	13
+03/04/2024 18:11:36	61	14. Anake ento tinjaka makelone duang detik	3	14
+03/04/2024 18:11:36	61	15. Anake ento katanjung makelone duang detik	3	15
+03/04/2024 18:11:36	61	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 18:11:36	61	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 18:11:36	61	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+03/04/2024 18:11:36	61	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+03/04/2024 18:11:36	61	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 18:11:36	61	21. Kuaca nika tumbasa antuk ida	3	21
+03/04/2024 18:11:36	61	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 18:11:36	61	23. Montor nika kaadol antuk ida	5	23
+03/04/2024 18:11:36	61	24. Montor nika adola antuk ida	2	24
+03/04/2024 18:18:14	62	1. Ia nyelap katanjung teken I Nyoman	2	1
+03/04/2024 18:18:14	62	2. Ia nyelap tanjunga teken I Nyoman	5	2
+03/04/2024 18:18:14	62	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+03/04/2024 18:18:14	62	4. Ia nyelap kalempag teken I Made	1	4
+03/04/2024 18:18:14	62	5. Ia nyelap lempaga teken I Made	5	5
+03/04/2024 18:18:14	62	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+03/04/2024 18:18:14	62	7. Da Nyoman lempaga	5	7
+03/04/2024 18:18:14	62	8. Da Nyoman kalempag	1	8
+03/04/2024 18:18:14	62	9. Da Made tanjunga	5	9
+03/04/2024 18:18:14	62	10. Da Made katanjung	1	10
+03/04/2024 18:18:14	62	11. Luune kasampatang makelone limang menit	1	11
+03/04/2024 18:18:14	62	12. Luune sampatanga makelone limang menit	5	12
+03/04/2024 18:18:14	62	13. Anake ento katinjak makelone duang detik	1	13
+03/04/2024 18:18:14	62	14. Anake ento tinjaka makelone duang detik	5	14
+03/04/2024 18:18:14	62	15. Anake ento katanjung makelone duang detik	2	15
+03/04/2024 18:18:14	62	16. Anake ento tanjunga makelone duang detik	5	16
+03/04/2024 18:18:14	62	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+03/04/2024 18:18:14	62	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+03/04/2024 18:18:14	62	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+03/04/2024 18:18:14	62	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 18:18:14	62	21. Kuaca nika tumbasa antuk ida	3	21
+03/04/2024 18:18:14	62	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 18:18:14	62	23. Montor nika kaadol antuk ida	5	23
+03/04/2024 18:18:14	62	24. Montor nika adola antuk ida	3	24
+03/04/2024 18:28:09	63	1. Ia nyelap katanjung teken I Nyoman	2	1
+03/04/2024 18:28:09	63	2. Ia nyelap tanjunga teken I Nyoman	5	2
+03/04/2024 18:28:09	63	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+03/04/2024 18:28:09	63	4. Ia nyelap kalempag teken I Made	1	4
+03/04/2024 18:28:09	63	5. Ia nyelap lempaga teken I Made	5	5
+03/04/2024 18:28:09	63	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+03/04/2024 18:28:09	63	7. Da Nyoman lempaga	5	7
+03/04/2024 18:28:09	63	8. Da Nyoman kalempag	1	8
+03/04/2024 18:28:09	63	9. Da Made tanjunga	5	9
+03/04/2024 18:28:09	63	10. Da Made katanjung	1	10
+03/04/2024 18:28:09	63	11. Luune kasampatang makelone limang menit	2	11
+03/04/2024 18:28:09	63	12. Luune sampatanga makelone limang menit	5	12
+03/04/2024 18:28:09	63	13. Anake ento katinjak makelone duang detik	2	13
+03/04/2024 18:28:09	63	14. Anake ento tinjaka makelone duang detik	5	14
+03/04/2024 18:28:09	63	15. Anake ento katanjung makelone duang detik	1	15
+03/04/2024 18:28:09	63	16. Anake ento tanjunga makelone duang detik	5	16
+03/04/2024 18:28:09	63	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+03/04/2024 18:28:09	63	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+03/04/2024 18:28:09	63	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+03/04/2024 18:28:09	63	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+03/04/2024 18:28:09	63	21. Kuaca nika tumbasa antuk ida	1	21
+03/04/2024 18:28:09	63	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 18:28:09	63	23. Montor nika kaadol antuk ida	5	23
+03/04/2024 18:28:09	63	24. Montor nika adola antuk ida	4	24
+03/04/2024 18:37:59	64	1. Ia nyelap katanjung teken I Nyoman	4	1
+03/04/2024 18:37:59	64	2. Ia nyelap tanjunga teken I Nyoman	3	2
+03/04/2024 18:37:59	64	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+03/04/2024 18:37:59	64	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 18:37:59	64	5. Ia nyelap lempaga teken I Made	4	5
+03/04/2024 18:37:59	64	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+03/04/2024 18:37:59	64	7. Da Nyoman lempaga	5	7
+03/04/2024 18:37:59	64	8. Da Nyoman kalempag	3	8
+03/04/2024 18:37:59	64	9. Da Made tanjunga	5	9
+03/04/2024 18:37:59	64	10. Da Made katanjung	3	10
+03/04/2024 18:37:59	64	11. Luune kasampatang makelone limang menit	3	11
+03/04/2024 18:37:59	64	12. Luune sampatanga makelone limang menit	2	12
+03/04/2024 18:37:59	64	13. Anake ento katinjak makelone duang detik	4	13
+03/04/2024 18:37:59	64	14. Anake ento tinjaka makelone duang detik	3	14
+03/04/2024 18:37:59	64	15. Anake ento katanjung makelone duang detik	4	15
+03/04/2024 18:37:59	64	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 18:37:59	64	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 18:37:59	64	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+03/04/2024 18:37:59	64	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+03/04/2024 18:37:59	64	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 18:37:59	64	21. Kuaca nika tumbasa antuk ida	3	21
+03/04/2024 18:37:59	64	22. Kuaca nika katumbas antuk ida	4	22
+03/04/2024 18:37:59	64	23. Montor nika kaadol antuk ida	3	23
+03/04/2024 18:37:59	64	24. Montor nika adola antuk ida	4	24
+03/04/2024 18:41:26	65	1. Ia nyelap katanjung teken I Nyoman	5	1
+03/04/2024 18:41:26	65	2. Ia nyelap tanjunga teken I Nyoman	3	2
+03/04/2024 18:41:26	65	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+03/04/2024 18:41:26	65	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 18:41:26	65	5. Ia nyelap lempaga teken I Made	3	5
+03/04/2024 18:41:26	65	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+03/04/2024 18:41:26	65	7. Da Nyoman lempaga	3	7
+03/04/2024 18:41:26	65	8. Da Nyoman kalempag	5	8
+03/04/2024 18:41:26	65	9. Da Made tanjunga	4	9
+03/04/2024 18:41:26	65	10. Da Made katanjung	3	10
+03/04/2024 18:41:26	65	11. Luune kasampatang makelone limang menit	3	11
+03/04/2024 18:41:26	65	12. Luune sampatanga makelone limang menit	4	12
+03/04/2024 18:41:26	65	13. Anake ento katinjak makelone duang detik	5	13
+03/04/2024 18:41:26	65	14. Anake ento tinjaka makelone duang detik	3	14
+03/04/2024 18:41:26	65	15. Anake ento katanjung makelone duang detik	5	15
+03/04/2024 18:41:26	65	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 18:41:26	65	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+03/04/2024 18:41:26	65	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+03/04/2024 18:41:26	65	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+03/04/2024 18:41:26	65	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 18:41:26	65	21. Kuaca nika tumbasa antuk ida	3	21
+03/04/2024 18:41:26	65	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 18:41:26	65	23. Montor nika kaadol antuk ida	5	23
+03/04/2024 18:41:26	65	24. Montor nika adola antuk ida	3	24
+03/04/2024 18:44:51	66	1. Ia nyelap katanjung teken I Nyoman	2	1
+03/04/2024 18:44:51	66	2. Ia nyelap tanjunga teken I Nyoman	4	2
+03/04/2024 18:44:51	66	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+03/04/2024 18:44:51	66	4. Ia nyelap kalempag teken I Made	2	4
+03/04/2024 18:44:51	66	5. Ia nyelap lempaga teken I Made	3	5
+03/04/2024 18:44:51	66	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+03/04/2024 18:44:51	66	7. Da Nyoman lempaga	2	7
+03/04/2024 18:44:51	66	8. Da Nyoman kalempag	2	8
+03/04/2024 18:44:51	66	9. Da Made tanjunga	3	9
+03/04/2024 18:44:51	66	10. Da Made katanjung	2	10
+03/04/2024 18:44:51	66	11. Luune kasampatang makelone limang menit	2	11
+03/04/2024 18:44:51	66	12. Luune sampatanga makelone limang menit	3	12
+03/04/2024 18:44:51	66	13. Anake ento katinjak makelone duang detik	2	13
+03/04/2024 18:44:51	66	14. Anake ento tinjaka makelone duang detik	3	14
+03/04/2024 18:44:51	66	15. Anake ento katanjung makelone duang detik	2	15
+03/04/2024 18:44:51	66	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 18:44:51	66	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 18:44:51	66	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+03/04/2024 18:44:51	66	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+03/04/2024 18:44:51	66	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 18:44:51	66	21. Kuaca nika tumbasa antuk ida	2	21
+03/04/2024 18:44:51	66	22. Kuaca nika katumbas antuk ida	4	22
+03/04/2024 18:44:51	66	23. Montor nika kaadol antuk ida	2	23
+03/04/2024 18:44:51	66	24. Montor nika adola antuk ida	3	24
+03/04/2024 18:46:35	67	1. Ia nyelap katanjung teken I Nyoman	3	1
+03/04/2024 18:46:35	67	2. Ia nyelap tanjunga teken I Nyoman	4	2
+03/04/2024 18:46:35	67	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+03/04/2024 18:46:35	67	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 18:46:35	67	5. Ia nyelap lempaga teken I Made	4	5
+03/04/2024 18:46:35	67	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+03/04/2024 18:46:35	67	7. Da Nyoman lempaga	5	7
+03/04/2024 18:46:35	67	8. Da Nyoman kalempag	1	8
+03/04/2024 18:46:35	67	9. Da Made tanjunga	5	9
+03/04/2024 18:46:35	67	10. Da Made katanjung	1	10
+03/04/2024 18:46:35	67	11. Luune kasampatang makelone limang menit	3	11
+03/04/2024 18:46:35	67	12. Luune sampatanga makelone limang menit	4	12
+03/04/2024 18:46:35	67	13. Anake ento katinjak makelone duang detik	2	13
+03/04/2024 18:46:35	67	14. Anake ento tinjaka makelone duang detik	4	14
+03/04/2024 18:46:35	67	15. Anake ento katanjung makelone duang detik	3	15
+03/04/2024 18:46:35	67	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 18:46:35	67	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+03/04/2024 18:46:35	67	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+03/04/2024 18:46:35	67	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+03/04/2024 18:46:35	67	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+03/04/2024 18:46:35	67	21. Kuaca nika tumbasa antuk ida	4	21
+03/04/2024 18:46:35	67	22. Kuaca nika katumbas antuk ida	2	22
+03/04/2024 18:46:35	67	23. Montor nika kaadol antuk ida	4	23
+03/04/2024 18:46:35	67	24. Montor nika adola antuk ida	2	24
+03/04/2024 18:50:15	68	1. Ia nyelap katanjung teken I Nyoman	4	1
+03/04/2024 18:50:15	68	2. Ia nyelap tanjunga teken I Nyoman	1	2
+03/04/2024 18:50:15	68	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+03/04/2024 18:50:15	68	4. Ia nyelap kalempag teken I Made	4	4
+03/04/2024 18:50:15	68	5. Ia nyelap lempaga teken I Made	2	5
+03/04/2024 18:50:15	68	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+03/04/2024 18:50:15	68	7. Da Nyoman lempaga	2	7
+03/04/2024 18:50:15	68	8. Da Nyoman kalempag	2	8
+03/04/2024 18:50:15	68	9. Da Made tanjunga	2	9
+03/04/2024 18:50:15	68	10. Da Made katanjung	2	10
+03/04/2024 18:50:15	68	11. Luune kasampatang makelone limang menit	2	11
+03/04/2024 18:50:15	68	12. Luune sampatanga makelone limang menit	2	12
+03/04/2024 18:50:15	68	13. Anake ento katinjak makelone duang detik	2	13
+03/04/2024 18:50:15	68	14. Anake ento tinjaka makelone duang detik	2	14
+03/04/2024 18:50:15	68	15. Anake ento katanjung makelone duang detik	2	15
+03/04/2024 18:50:15	68	16. Anake ento tanjunga makelone duang detik	2	16
+03/04/2024 18:50:15	68	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+03/04/2024 18:50:15	68	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+03/04/2024 18:50:15	68	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	2	19
+03/04/2024 18:50:15	68	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+03/04/2024 18:50:15	68	21. Kuaca nika tumbasa antuk ida	4	21
+03/04/2024 18:50:15	68	22. Kuaca nika katumbas antuk ida	4	22
+03/04/2024 18:50:15	68	23. Montor nika kaadol antuk ida	3	23
+03/04/2024 18:50:15	68	24. Montor nika adola antuk ida	3	24
+03/04/2024 18:54:35	69	1. Ia nyelap katanjung teken I Nyoman	4	1
+03/04/2024 18:54:35	69	2. Ia nyelap tanjunga teken I Nyoman	5	2
+03/04/2024 18:54:35	69	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+03/04/2024 18:54:35	69	4. Ia nyelap kalempag teken I Made	4	4
+03/04/2024 18:54:35	69	5. Ia nyelap lempaga teken I Made	3	5
+03/04/2024 18:54:35	69	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+03/04/2024 18:54:35	69	7. Da Nyoman lempaga	5	7
+03/04/2024 18:54:35	69	8. Da Nyoman kalempag	4	8
+03/04/2024 18:54:35	69	9. Da Made tanjunga	1	9
+03/04/2024 18:54:35	69	10. Da Made katanjung	5	10
+03/04/2024 18:54:35	69	11. Luune kasampatang makelone limang menit	3	11
+03/04/2024 18:54:35	69	12. Luune sampatanga makelone limang menit	5	12
+03/04/2024 18:54:35	69	13. Anake ento katinjak makelone duang detik	1	13
+03/04/2024 18:54:35	69	14. Anake ento tinjaka makelone duang detik	2	14
+03/04/2024 18:54:35	69	15. Anake ento katanjung makelone duang detik	4	15
+03/04/2024 18:54:35	69	16. Anake ento tanjunga makelone duang detik	5	16
+03/04/2024 18:54:35	69	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+03/04/2024 18:54:35	69	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+03/04/2024 18:54:35	69	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+03/04/2024 18:54:35	69	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+03/04/2024 18:54:35	69	21. Kuaca nika tumbasa antuk ida	2	21
+03/04/2024 18:54:35	69	22. Kuaca nika katumbas antuk ida	5	22
+03/04/2024 18:54:35	69	23. Montor nika kaadol antuk ida	2	23
+03/04/2024 18:54:35	69	24. Montor nika adola antuk ida	2	24
+03/04/2024 19:04:13	70	1. Ia nyelap katanjung teken I Nyoman	3	1
+03/04/2024 19:04:13	70	2. Ia nyelap tanjunga teken I Nyoman	5	2
+03/04/2024 19:04:13	70	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+03/04/2024 19:04:13	70	4. Ia nyelap kalempag teken I Made	5	4
+03/04/2024 19:04:13	70	5. Ia nyelap lempaga teken I Made	5	5
+03/04/2024 19:04:13	70	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+03/04/2024 19:04:13	70	7. Da Nyoman lempaga	5	7
+03/04/2024 19:04:13	70	8. Da Nyoman kalempag	1	8
+03/04/2024 19:04:13	70	9. Da Made tanjunga	5	9
+03/04/2024 19:04:13	70	10. Da Made katanjung	3	10
+03/04/2024 19:04:13	70	11. Luune kasampatang makelone limang menit	4	11
+03/04/2024 19:04:13	70	12. Luune sampatanga makelone limang menit	4	12
+03/04/2024 19:04:13	70	13. Anake ento katinjak makelone duang detik	4	13
+03/04/2024 19:04:13	70	14. Anake ento tinjaka makelone duang detik	4	14
+03/04/2024 19:04:13	70	15. Anake ento katanjung makelone duang detik	4	15
+03/04/2024 19:04:13	70	16. Anake ento tanjunga makelone duang detik	4	16
+03/04/2024 19:04:13	70	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 19:04:13	70	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+03/04/2024 19:04:13	70	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+03/04/2024 19:04:13	70	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+03/04/2024 19:04:13	70	21. Kuaca nika tumbasa antuk ida	4	21
+03/04/2024 19:04:13	70	22. Kuaca nika katumbas antuk ida	4	22
+03/04/2024 19:04:13	70	23. Montor nika kaadol antuk ida	4	23
+03/04/2024 19:04:13	70	24. Montor nika adola antuk ida	4	24
+03/04/2024 21:48:15	71	1. Ia nyelap katanjung teken I Nyoman	3	1
+03/04/2024 21:48:15	71	2. Ia nyelap tanjunga teken I Nyoman	4	2
+03/04/2024 21:48:15	71	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+03/04/2024 21:48:15	71	4. Ia nyelap kalempag teken I Made	3	4
+03/04/2024 21:48:15	71	5. Ia nyelap lempaga teken I Made	4	5
+03/04/2024 21:48:15	71	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+03/04/2024 21:48:15	71	7. Da Nyoman lempaga	4	7
+03/04/2024 21:48:15	71	8. Da Nyoman kalempag	2	8
+03/04/2024 21:48:15	71	9. Da Made tanjunga	5	9
+03/04/2024 21:48:15	71	10. Da Made katanjung	2	10
+03/04/2024 21:48:15	71	11. Luune kasampatang makelone limang menit	3	11
+03/04/2024 21:48:15	71	12. Luune sampatanga makelone limang menit	3	12
+03/04/2024 21:48:15	71	13. Anake ento katinjak makelone duang detik	3	13
+03/04/2024 21:48:15	71	14. Anake ento tinjaka makelone duang detik	3	14
+03/04/2024 21:48:15	71	15. Anake ento katanjung makelone duang detik	3	15
+03/04/2024 21:48:15	71	16. Anake ento tanjunga makelone duang detik	3	16
+03/04/2024 21:48:15	71	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+03/04/2024 21:48:15	71	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+03/04/2024 21:48:15	71	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+03/04/2024 21:48:15	71	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+03/04/2024 21:48:15	71	21. Kuaca nika tumbasa antuk ida	2	21
+03/04/2024 21:48:15	71	22. Kuaca nika katumbas antuk ida	3	22
+03/04/2024 21:48:15	71	23. Montor nika kaadol antuk ida	3	23
+03/04/2024 21:48:15	71	24. Montor nika adola antuk ida	2	24
+04/04/2024 12:39:02	72	1. Ia nyelap katanjung teken I Nyoman	5	1
+04/04/2024 12:39:02	72	2. Ia nyelap tanjunga teken I Nyoman	4	2
+04/04/2024 12:39:02	72	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 12:39:02	72	4. Ia nyelap kalempag teken I Made	4	4
+04/04/2024 12:39:02	72	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 12:39:02	72	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 12:39:02	72	7. Da Nyoman lempaga	4	7
+04/04/2024 12:39:02	72	8. Da Nyoman kalempag	4	8
+04/04/2024 12:39:02	72	9. Da Made tanjunga	4	9
+04/04/2024 12:39:02	72	10. Da Made katanjung	4	10
+04/04/2024 12:39:02	72	11. Luune kasampatang makelone limang menit	4	11
+04/04/2024 12:39:02	72	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 12:39:02	72	13. Anake ento katinjak makelone duang detik	4	13
+04/04/2024 12:39:02	72	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 12:39:02	72	15. Anake ento katanjung makelone duang detik	4	15
+04/04/2024 12:39:02	72	16. Anake ento tanjunga makelone duang detik	4	16
+04/04/2024 12:39:02	72	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+04/04/2024 12:39:02	72	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 12:39:02	72	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+04/04/2024 12:39:02	72	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+04/04/2024 12:39:02	72	21. Kuaca nika tumbasa antuk ida	4	21
+04/04/2024 12:39:02	72	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 12:39:02	72	23. Montor nika kaadol antuk ida	4	23
+04/04/2024 12:39:02	72	24. Montor nika adola antuk ida	4	24
+04/04/2024 12:54:17	73	1. Ia nyelap katanjung teken I Nyoman	4	1
+04/04/2024 12:54:17	73	2. Ia nyelap tanjunga teken I Nyoman	2	2
+04/04/2024 12:54:17	73	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+04/04/2024 12:54:17	73	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 12:54:17	73	5. Ia nyelap lempaga teken I Made	2	5
+04/04/2024 12:54:17	73	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+04/04/2024 12:54:17	73	7. Da Nyoman lempaga	5	7
+04/04/2024 12:54:17	73	8. Da Nyoman kalempag	1	8
+04/04/2024 12:54:17	73	9. Da Made tanjunga	5	9
+04/04/2024 12:54:17	73	10. Da Made katanjung	2	10
+04/04/2024 12:54:17	73	11. Luune kasampatang makelone limang menit	5	11
+04/04/2024 12:54:17	73	12. Luune sampatanga makelone limang menit	5	12
+04/04/2024 12:54:17	73	13. Anake ento katinjak makelone duang detik	5	13
+04/04/2024 12:54:17	73	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 12:54:17	73	15. Anake ento katanjung makelone duang detik	5	15
+04/04/2024 12:54:17	73	16. Anake ento tanjunga makelone duang detik	5	16
+04/04/2024 12:54:17	73	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+04/04/2024 12:54:17	73	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 12:54:17	73	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+04/04/2024 12:54:17	73	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 12:54:17	73	21. Kuaca nika tumbasa antuk ida	5	21
+04/04/2024 12:54:17	73	22. Kuaca nika katumbas antuk ida	5	22
+04/04/2024 12:54:17	73	23. Montor nika kaadol antuk ida	5	23
+04/04/2024 12:54:17	73	24. Montor nika adola antuk ida	1	24
+04/04/2024 13:14:12	74	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 13:14:12	74	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 13:14:12	74	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+04/04/2024 13:14:12	74	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 13:14:12	74	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 13:14:12	74	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 13:14:12	74	7. Da Nyoman lempaga	3	7
+04/04/2024 13:14:12	74	8. Da Nyoman kalempag	3	8
+04/04/2024 13:14:12	74	9. Da Made tanjunga	3	9
+04/04/2024 13:14:12	74	10. Da Made katanjung	3	10
+04/04/2024 13:14:12	74	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 13:14:12	74	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 13:14:12	74	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 13:14:12	74	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 13:14:12	74	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 13:14:12	74	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 13:14:12	74	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 13:14:12	74	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 13:14:12	74	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 13:14:12	74	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 13:14:12	74	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 13:14:12	74	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 13:14:12	74	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 13:14:12	74	24. Montor nika adola antuk ida	3	24
+04/04/2024 14:38:34	75	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 14:38:34	75	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 14:38:34	75	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+04/04/2024 14:38:34	75	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 14:38:34	75	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 14:38:34	75	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 14:38:34	75	7. Da Nyoman lempaga	3	7
+04/04/2024 14:38:34	75	8. Da Nyoman kalempag	3	8
+04/04/2024 14:38:34	75	9. Da Made tanjunga	3	9
+04/04/2024 14:38:34	75	10. Da Made katanjung	3	10
+04/04/2024 14:38:34	75	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 14:38:34	75	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 14:38:34	75	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 14:38:34	75	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 14:38:34	75	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 14:38:34	75	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 14:38:34	75	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 14:38:34	75	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 14:38:34	75	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 14:38:34	75	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 14:38:34	75	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 14:38:34	75	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 14:38:34	75	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 14:38:34	75	24. Montor nika adola antuk ida	3	24
+04/04/2024 14:43:42	76	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 14:43:42	76	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 14:43:42	76	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+04/04/2024 14:43:42	76	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 14:43:42	76	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 14:43:42	76	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 14:43:42	76	7. Da Nyoman lempaga	3	7
+04/04/2024 14:43:42	76	8. Da Nyoman kalempag	3	8
+04/04/2024 14:43:42	76	9. Da Made tanjunga	3	9
+04/04/2024 14:43:42	76	10. Da Made katanjung	3	10
+04/04/2024 14:43:42	76	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 14:43:42	76	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 14:43:42	76	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 14:43:42	76	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 14:43:42	76	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 14:43:42	76	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 14:43:42	76	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 14:43:42	76	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 14:43:42	76	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 14:43:42	76	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 14:43:42	76	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 14:43:42	76	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 14:43:42	76	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 14:43:42	76	24. Montor nika adola antuk ida	3	24
+04/04/2024 14:45:54	77	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 14:45:54	77	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 14:45:54	77	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+04/04/2024 14:45:54	77	4. Ia nyelap kalempag teken I Made	4	4
+04/04/2024 14:45:54	77	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 14:45:54	77	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 14:45:54	77	7. Da Nyoman lempaga	3	7
+04/04/2024 14:45:54	77	8. Da Nyoman kalempag	3	8
+04/04/2024 14:45:54	77	9. Da Made tanjunga	3	9
+04/04/2024 14:45:54	77	10. Da Made katanjung	3	10
+04/04/2024 14:45:54	77	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 14:45:54	77	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 14:45:54	77	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 14:45:54	77	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 14:45:54	77	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 14:45:54	77	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 14:45:54	77	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 14:45:54	77	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 14:45:54	77	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 14:45:54	77	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 14:45:54	77	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 14:45:54	77	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 14:45:54	77	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 14:45:54	77	24. Montor nika adola antuk ida	3	24
+04/04/2024 14:47:57	78	1. Ia nyelap katanjung teken I Nyoman	5	1
+04/04/2024 14:47:57	78	2. Ia nyelap tanjunga teken I Nyoman	5	2
+04/04/2024 14:47:57	78	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+04/04/2024 14:47:57	78	4. Ia nyelap kalempag teken I Made	5	4
+04/04/2024 14:47:57	78	5. Ia nyelap lempaga teken I Made	5	5
+04/04/2024 14:47:57	78	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+04/04/2024 14:47:57	78	7. Da Nyoman lempaga	5	7
+04/04/2024 14:47:57	78	8. Da Nyoman kalempag	5	8
+04/04/2024 14:47:57	78	9. Da Made tanjunga	5	9
+04/04/2024 14:47:57	78	10. Da Made katanjung	5	10
+04/04/2024 14:47:57	78	11. Luune kasampatang makelone limang menit	5	11
+04/04/2024 14:47:57	78	12. Luune sampatanga makelone limang menit	5	12
+04/04/2024 14:47:57	78	13. Anake ento katinjak makelone duang detik	5	13
+04/04/2024 14:47:57	78	14. Anake ento tinjaka makelone duang detik	5	14
+04/04/2024 14:47:57	78	15. Anake ento katanjung makelone duang detik	5	15
+04/04/2024 14:47:57	78	16. Anake ento tanjunga makelone duang detik	5	16
+04/04/2024 14:47:57	78	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+04/04/2024 14:47:57	78	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	18
+04/04/2024 14:47:57	78	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+04/04/2024 14:47:57	78	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	5	20
+04/04/2024 14:47:57	78	21. Kuaca nika tumbasa antuk ida	5	21
+04/04/2024 14:47:57	78	22. Kuaca nika katumbas antuk ida	5	22
+04/04/2024 14:47:57	78	23. Montor nika kaadol antuk ida	5	23
+04/04/2024 14:47:57	78	24. Montor nika adola antuk ida	5	24
+04/04/2024 14:50:57	79	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 14:50:57	79	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 14:50:57	79	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 14:50:57	79	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 14:50:57	79	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 14:50:57	79	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 14:50:57	79	7. Da Nyoman lempaga	2	7
+04/04/2024 14:50:57	79	8. Da Nyoman kalempag	3	8
+04/04/2024 14:50:57	79	9. Da Made tanjunga	2	9
+04/04/2024 14:50:57	79	10. Da Made katanjung	3	10
+04/04/2024 14:50:57	79	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 14:50:57	79	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 14:50:57	79	13. Anake ento katinjak makelone duang detik	2	13
+04/04/2024 14:50:57	79	14. Anake ento tinjaka makelone duang detik	2	14
+04/04/2024 14:50:57	79	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 14:50:57	79	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 14:50:57	79	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 14:50:57	79	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+04/04/2024 14:50:57	79	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 14:50:57	79	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 14:50:57	79	21. Kuaca nika tumbasa antuk ida	2	21
+04/04/2024 14:50:57	79	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 14:50:57	79	23. Montor nika kaadol antuk ida	2	23
+04/04/2024 14:50:57	79	24. Montor nika adola antuk ida	3	24
+04/04/2024 14:51:58	80	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 14:51:58	80	2. Ia nyelap tanjunga teken I Nyoman	4	2
+04/04/2024 14:51:58	80	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+04/04/2024 14:51:58	80	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 14:51:58	80	5. Ia nyelap lempaga teken I Made	2	5
+04/04/2024 14:51:58	80	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 14:51:58	80	7. Da Nyoman lempaga	2	7
+04/04/2024 14:51:58	80	8. Da Nyoman kalempag	3	8
+04/04/2024 14:51:58	80	9. Da Made tanjunga	3	9
+04/04/2024 14:51:58	80	10. Da Made katanjung	2	10
+04/04/2024 14:51:58	80	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 14:51:58	80	12. Luune sampatanga makelone limang menit	2	12
+04/04/2024 14:51:58	80	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 14:51:58	80	14. Anake ento tinjaka makelone duang detik	2	14
+04/04/2024 14:51:58	80	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 14:51:58	80	16. Anake ento tanjunga makelone duang detik	2	16
+04/04/2024 14:51:58	80	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 14:51:58	80	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+04/04/2024 14:51:58	80	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 14:51:58	80	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+04/04/2024 14:51:58	80	21. Kuaca nika tumbasa antuk ida	4	21
+04/04/2024 14:51:58	80	22. Kuaca nika katumbas antuk ida	2	22
+04/04/2024 14:51:58	80	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 14:51:58	80	24. Montor nika adola antuk ida	2	24
+04/04/2024 14:54:46	81	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 14:54:46	81	2. Ia nyelap tanjunga teken I Nyoman	4	2
+04/04/2024 14:54:46	81	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 14:54:46	81	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 14:54:46	81	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 14:54:46	81	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 14:54:46	81	7. Da Nyoman lempaga	2	7
+04/04/2024 14:54:46	81	8. Da Nyoman kalempag	2	8
+04/04/2024 14:54:46	81	9. Da Made tanjunga	3	9
+04/04/2024 14:54:46	81	10. Da Made katanjung	3	10
+04/04/2024 14:54:46	81	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 14:54:46	81	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 14:54:46	81	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 14:54:46	81	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 14:54:46	81	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 14:54:46	81	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 14:54:46	81	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+04/04/2024 14:54:46	81	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+04/04/2024 14:54:46	81	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+04/04/2024 14:54:46	81	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+04/04/2024 14:54:46	81	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 14:54:46	81	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 14:54:46	81	23. Montor nika kaadol antuk ida	4	23
+04/04/2024 14:54:46	81	24. Montor nika adola antuk ida	3	24
+04/04/2024 14:56:23	82	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 14:56:23	82	2. Ia nyelap tanjunga teken I Nyoman	4	2
+04/04/2024 14:56:23	82	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	3	3
+04/04/2024 14:56:23	82	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 14:56:23	82	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 14:56:23	82	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 14:56:23	82	7. Da Nyoman lempaga	2	7
+04/04/2024 14:56:23	82	8. Da Nyoman kalempag	4	8
+04/04/2024 14:56:23	82	9. Da Made tanjunga	2	9
+04/04/2024 14:56:23	82	10. Da Made katanjung	4	10
+04/04/2024 14:56:23	82	11. Luune kasampatang makelone limang menit	2	11
+04/04/2024 14:56:23	82	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 14:56:23	82	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 14:56:23	82	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 14:56:23	82	15. Anake ento katanjung makelone duang detik	2	15
+04/04/2024 14:56:23	82	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 14:56:23	82	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+04/04/2024 14:56:23	82	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 14:56:23	82	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 14:56:23	82	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 14:56:23	82	21. Kuaca nika tumbasa antuk ida	1	21
+04/04/2024 14:56:23	82	22. Kuaca nika katumbas antuk ida	2	22
+04/04/2024 14:56:23	82	23. Montor nika kaadol antuk ida	4	23
+04/04/2024 14:56:23	82	24. Montor nika adola antuk ida	3	24
+04/04/2024 15:01:11	83	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 15:01:11	83	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 15:01:11	83	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 15:01:11	83	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 15:01:11	83	5. Ia nyelap lempaga teken I Made	2	5
+04/04/2024 15:01:11	83	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 15:01:11	83	7. Da Nyoman lempaga	3	7
+04/04/2024 15:01:11	83	8. Da Nyoman kalempag	2	8
+04/04/2024 15:01:11	83	9. Da Made tanjunga	3	9
+04/04/2024 15:01:11	83	10. Da Made katanjung	4	10
+04/04/2024 15:01:11	83	11. Luune kasampatang makelone limang menit	2	11
+04/04/2024 15:01:11	83	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 15:01:11	83	13. Anake ento katinjak makelone duang detik	1	13
+04/04/2024 15:01:11	83	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 15:01:11	83	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 15:01:11	83	16. Anake ento tanjunga makelone duang detik	2	16
+04/04/2024 15:01:11	83	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+04/04/2024 15:01:11	83	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 15:01:11	83	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+04/04/2024 15:01:11	83	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+04/04/2024 15:01:11	83	21. Kuaca nika tumbasa antuk ida	2	21
+04/04/2024 15:01:11	83	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 15:01:11	83	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 15:01:11	83	24. Montor nika adola antuk ida	3	24
+04/04/2024 15:01:35	84	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 15:01:35	84	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 15:01:35	84	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+04/04/2024 15:01:35	84	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 15:01:35	84	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 15:01:35	84	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 15:01:35	84	7. Da Nyoman lempaga	3	7
+04/04/2024 15:01:35	84	8. Da Nyoman kalempag	4	8
+04/04/2024 15:01:35	84	9. Da Made tanjunga	4	9
+04/04/2024 15:01:35	84	10. Da Made katanjung	4	10
+04/04/2024 15:01:35	84	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 15:01:35	84	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 15:01:35	84	13. Anake ento katinjak makelone duang detik	2	13
+04/04/2024 15:01:35	84	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 15:01:35	84	15. Anake ento katanjung makelone duang detik	2	15
+04/04/2024 15:01:35	84	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 15:01:35	84	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 15:01:35	84	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 15:01:35	84	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 15:01:35	84	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 15:01:35	84	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 15:01:35	84	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 15:01:35	84	23. Montor nika kaadol antuk ida	4	23
+04/04/2024 15:01:35	84	24. Montor nika adola antuk ida	2	24
+04/04/2024 16:12:36	85	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 16:12:36	85	2. Ia nyelap tanjunga teken I Nyoman	4	2
+04/04/2024 16:12:36	85	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 16:12:36	85	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 16:12:36	85	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 16:12:36	85	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 16:12:36	85	7. Da Nyoman lempaga	2	7
+04/04/2024 16:12:36	85	8. Da Nyoman kalempag	1	8
+04/04/2024 16:12:36	85	9. Da Made tanjunga	1	9
+04/04/2024 16:12:36	85	10. Da Made katanjung	2	10
+04/04/2024 16:12:36	85	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 16:12:36	85	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 16:12:36	85	13. Anake ento katinjak makelone duang detik	2	13
+04/04/2024 16:12:36	85	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 16:12:36	85	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 16:12:36	85	16. Anake ento tanjunga makelone duang detik	3	16
+04/04/2024 16:12:36	85	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 16:12:36	85	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 16:12:36	85	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 16:12:36	85	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+04/04/2024 16:12:36	85	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 16:12:36	85	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 16:12:36	85	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 16:12:36	85	24. Montor nika adola antuk ida	5	24
+04/04/2024 16:23:38	86	1. Ia nyelap katanjung teken I Nyoman	1	1
+04/04/2024 16:23:38	86	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 16:23:38	86	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+04/04/2024 16:23:38	86	4. Ia nyelap kalempag teken I Made	1	4
+04/04/2024 16:23:38	86	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 16:23:38	86	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+04/04/2024 16:23:38	86	7. Da Nyoman lempaga	3	7
+04/04/2024 16:23:38	86	8. Da Nyoman kalempag	2	8
+04/04/2024 16:23:38	86	9. Da Made tanjunga	5	9
+04/04/2024 16:23:38	86	10. Da Made katanjung	2	10
+04/04/2024 16:23:38	86	11. Luune kasampatang makelone limang menit	4	11
+04/04/2024 16:23:38	86	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 16:23:38	86	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 16:23:38	86	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 16:23:38	86	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 16:23:38	86	16. Anake ento tanjunga makelone duang detik	4	16
+04/04/2024 16:23:38	86	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+04/04/2024 16:23:38	86	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 16:23:38	86	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+04/04/2024 16:23:38	86	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+04/04/2024 16:23:38	86	21. Kuaca nika tumbasa antuk ida	3	21
+04/04/2024 16:23:38	86	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 16:23:38	86	23. Montor nika kaadol antuk ida	2	23
+04/04/2024 16:23:38	86	24. Montor nika adola antuk ida	4	24
+04/04/2024 16:29:49	87	1. Ia nyelap katanjung teken I Nyoman	4	1
+04/04/2024 16:29:49	87	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 16:29:49	87	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 16:29:49	87	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 16:29:49	87	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 16:29:49	87	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 16:29:49	87	7. Da Nyoman lempaga	4	7
+04/04/2024 16:29:49	87	8. Da Nyoman kalempag	2	8
+04/04/2024 16:29:49	87	9. Da Made tanjunga	3	9
+04/04/2024 16:29:49	87	10. Da Made katanjung	2	10
+04/04/2024 16:29:49	87	11. Luune kasampatang makelone limang menit	2	11
+04/04/2024 16:29:49	87	12. Luune sampatanga makelone limang menit	2	12
+04/04/2024 16:29:49	87	13. Anake ento katinjak makelone duang detik	1	13
+04/04/2024 16:29:49	87	14. Anake ento tinjaka makelone duang detik	2	14
+04/04/2024 16:29:49	87	15. Anake ento katanjung makelone duang detik	2	15
+04/04/2024 16:29:49	87	16. Anake ento tanjunga makelone duang detik	2	16
+04/04/2024 16:29:49	87	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+04/04/2024 16:29:49	87	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 16:29:49	87	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	2	19
+04/04/2024 16:29:49	87	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+04/04/2024 16:29:49	87	21. Kuaca nika tumbasa antuk ida	2	21
+04/04/2024 16:29:49	87	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 16:29:49	87	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 16:29:49	87	24. Montor nika adola antuk ida	2	24
+04/04/2024 16:34:27	88	1. Ia nyelap katanjung teken I Nyoman	2	1
+04/04/2024 16:34:27	88	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 16:34:27	88	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	1	3
+04/04/2024 16:34:27	88	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 16:34:27	88	5. Ia nyelap lempaga teken I Made	2	5
+04/04/2024 16:34:27	88	6. Ia tusing kalempag kewala lempaga teken I Made	2	6
+04/04/2024 16:34:27	88	7. Da Nyoman lempaga	3	7
+04/04/2024 16:34:27	88	8. Da Nyoman kalempag	3	8
+04/04/2024 16:34:27	88	9. Da Made tanjunga	3	9
+04/04/2024 16:34:27	88	10. Da Made katanjung	3	10
+04/04/2024 16:34:27	88	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 16:34:27	88	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 16:34:27	88	13. Anake ento katinjak makelone duang detik	2	13
+04/04/2024 16:34:27	88	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 16:34:27	88	15. Anake ento katanjung makelone duang detik	2	15
+04/04/2024 16:34:27	88	16. Anake ento tanjunga makelone duang detik	2	16
+04/04/2024 16:34:27	88	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	17
+04/04/2024 16:34:27	88	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 16:34:27	88	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 16:34:27	88	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+04/04/2024 16:34:27	88	21. Kuaca nika tumbasa antuk ida	4	21
+04/04/2024 16:34:27	88	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 16:34:27	88	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 16:34:27	88	24. Montor nika adola antuk ida	3	24
+04/04/2024 16:35:33	89	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 16:35:33	89	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 16:35:33	89	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 16:35:33	89	4. Ia nyelap kalempag teken I Made	3	4
+04/04/2024 16:35:33	89	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 16:35:33	89	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 16:35:33	89	7. Da Nyoman lempaga	3	7
+04/04/2024 16:35:33	89	8. Da Nyoman kalempag	3	8
+04/04/2024 16:35:33	89	9. Da Made tanjunga	3	9
+04/04/2024 16:35:33	89	10. Da Made katanjung	4	10
+04/04/2024 16:35:33	89	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 16:35:33	89	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 16:35:33	89	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 16:35:33	89	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 16:35:33	89	15. Anake ento katanjung makelone duang detik	2	15
+04/04/2024 16:35:33	89	16. Anake ento tanjunga makelone duang detik	4	16
+04/04/2024 16:35:33	89	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 16:35:33	89	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 16:35:33	89	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+04/04/2024 16:35:33	89	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	3	20
+04/04/2024 16:35:33	89	21. Kuaca nika tumbasa antuk ida	4	21
+04/04/2024 16:35:33	89	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 16:35:33	89	23. Montor nika kaadol antuk ida	4	23
+04/04/2024 16:35:33	89	24. Montor nika adola antuk ida	4	24
+04/04/2024 16:35:34	90	1. Ia nyelap katanjung teken I Nyoman	1	1
+04/04/2024 16:35:34	90	2. Ia nyelap tanjunga teken I Nyoman	4	2
+04/04/2024 16:35:34	90	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+04/04/2024 16:35:34	90	4. Ia nyelap kalempag teken I Made	4	4
+04/04/2024 16:35:34	90	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 16:35:34	90	6. Ia tusing kalempag kewala lempaga teken I Made	1	6
+04/04/2024 16:35:34	90	7. Da Nyoman lempaga	5	7
+04/04/2024 16:35:34	90	8. Da Nyoman kalempag	1	8
+04/04/2024 16:35:34	90	9. Da Made tanjunga	5	9
+04/04/2024 16:35:34	90	10. Da Made katanjung	4	10
+04/04/2024 16:35:34	90	11. Luune kasampatang makelone limang menit	4	11
+04/04/2024 16:35:34	90	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 16:35:34	90	13. Anake ento katinjak makelone duang detik	1	13
+04/04/2024 16:35:34	90	14. Anake ento tinjaka makelone duang detik	1	14
+04/04/2024 16:35:34	90	15. Anake ento katanjung makelone duang detik	1	15
+04/04/2024 16:35:34	90	16. Anake ento tanjunga makelone duang detik	1	16
+04/04/2024 16:35:34	90	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+04/04/2024 16:35:34	90	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+04/04/2024 16:35:34	90	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	1	19
+04/04/2024 16:35:34	90	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+04/04/2024 16:35:34	90	21. Kuaca nika tumbasa antuk ida	5	21
+04/04/2024 16:35:34	90	22. Kuaca nika katumbas antuk ida	3	22
+04/04/2024 16:35:34	90	23. Montor nika kaadol antuk ida	5	23
+04/04/2024 16:35:34	90	24. Montor nika adola antuk ida	3	24
+04/04/2024 16:36:56	91	1. Ia nyelap katanjung teken I Nyoman	3	1
+04/04/2024 16:36:56	91	2. Ia nyelap tanjunga teken I Nyoman	3	2
+04/04/2024 16:36:56	91	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	2	3
+04/04/2024 16:36:56	91	4. Ia nyelap kalempag teken I Made	2	4
+04/04/2024 16:36:56	91	5. Ia nyelap lempaga teken I Made	3	5
+04/04/2024 16:36:56	91	6. Ia tusing kalempag kewala lempaga teken I Made	3	6
+04/04/2024 16:36:56	91	7. Da Nyoman lempaga	5	7
+04/04/2024 16:36:56	91	8. Da Nyoman kalempag	3	8
+04/04/2024 16:36:56	91	9. Da Made tanjunga	3	9
+04/04/2024 16:36:56	91	10. Da Made katanjung	3	10
+04/04/2024 16:36:56	91	11. Luune kasampatang makelone limang menit	3	11
+04/04/2024 16:36:56	91	12. Luune sampatanga makelone limang menit	3	12
+04/04/2024 16:36:56	91	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 16:36:56	91	14. Anake ento tinjaka makelone duang detik	1	14
+04/04/2024 16:36:56	91	15. Anake ento katanjung makelone duang detik	3	15
+04/04/2024 16:36:56	91	16. Anake ento tanjunga makelone duang detik	2	16
+04/04/2024 16:36:56	91	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+04/04/2024 16:36:56	91	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 16:36:56	91	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+04/04/2024 16:36:56	91	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+04/04/2024 16:36:56	91	21. Kuaca nika tumbasa antuk ida	1	21
+04/04/2024 16:36:56	91	22. Kuaca nika katumbas antuk ida	5	22
+04/04/2024 16:36:56	91	23. Montor nika kaadol antuk ida	5	23
+04/04/2024 16:36:56	91	24. Montor nika adola antuk ida	1	24
+04/04/2024 17:59:55	92	1. Ia nyelap katanjung teken I Nyoman	1	1
+04/04/2024 17:59:55	92	2. Ia nyelap tanjunga teken I Nyoman	5	2
+04/04/2024 17:59:55	92	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+04/04/2024 17:59:55	92	4. Ia nyelap kalempag teken I Made	1	4
+04/04/2024 17:59:55	92	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 17:59:55	92	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+04/04/2024 17:59:55	92	7. Da Nyoman lempaga	3	7
+04/04/2024 17:59:55	92	8. Da Nyoman kalempag	4	8
+04/04/2024 17:59:55	92	9. Da Made tanjunga	3	9
+04/04/2024 17:59:55	92	10. Da Made katanjung	4	10
+04/04/2024 17:59:55	92	11. Luune kasampatang makelone limang menit	4	11
+04/04/2024 17:59:55	92	12. Luune sampatanga makelone limang menit	5	12
+04/04/2024 17:59:55	92	13. Anake ento katinjak makelone duang detik	3	13
+04/04/2024 17:59:55	92	14. Anake ento tinjaka makelone duang detik	3	14
+04/04/2024 17:59:55	92	15. Anake ento katanjung makelone duang detik	4	15
+04/04/2024 17:59:55	92	16. Anake ento tanjunga makelone duang detik	4	16
+04/04/2024 17:59:55	92	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+04/04/2024 17:59:55	92	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	18
+04/04/2024 17:59:55	92	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+04/04/2024 17:59:55	92	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+04/04/2024 17:59:55	92	21. Kuaca nika tumbasa antuk ida	2	21
+04/04/2024 17:59:55	92	22. Kuaca nika katumbas antuk ida	5	22
+04/04/2024 17:59:55	92	23. Montor nika kaadol antuk ida	3	23
+04/04/2024 17:59:55	92	24. Montor nika adola antuk ida	5	24
+04/04/2024 19:06:59	93	1. Ia nyelap katanjung teken I Nyoman	4	1
+04/04/2024 19:06:59	93	2. Ia nyelap tanjunga teken I Nyoman	5	2
+04/04/2024 19:06:59	93	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+04/04/2024 19:06:59	93	4. Ia nyelap kalempag teken I Made	4	4
+04/04/2024 19:06:59	93	5. Ia nyelap lempaga teken I Made	4	5
+04/04/2024 19:06:59	93	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+04/04/2024 19:06:59	93	7. Da Nyoman lempaga	4	7
+04/04/2024 19:06:59	93	8. Da Nyoman kalempag	4	8
+04/04/2024 19:06:59	93	9. Da Made tanjunga	4	9
+04/04/2024 19:06:59	93	10. Da Made katanjung	4	10
+04/04/2024 19:06:59	93	11. Luune kasampatang makelone limang menit	4	11
+04/04/2024 19:06:59	93	12. Luune sampatanga makelone limang menit	4	12
+04/04/2024 19:06:59	93	13. Anake ento katinjak makelone duang detik	4	13
+04/04/2024 19:06:59	93	14. Anake ento tinjaka makelone duang detik	4	14
+04/04/2024 19:06:59	93	15. Anake ento katanjung makelone duang detik	4	15
+04/04/2024 19:06:59	93	16. Anake ento tanjunga makelone duang detik	4	16
+04/04/2024 19:06:59	93	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	17
+04/04/2024 19:06:59	93	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	4	18
+04/04/2024 19:06:59	93	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	4	19
+04/04/2024 19:06:59	93	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	4	20
+04/04/2024 19:06:59	93	21. Kuaca nika tumbasa antuk ida	4	21
+04/04/2024 19:06:59	93	22. Kuaca nika katumbas antuk ida	4	22
+04/04/2024 19:06:59	93	23. Montor nika kaadol antuk ida	4	23
+04/04/2024 19:06:59	93	24. Montor nika adola antuk ida	4	24
+05/04/2024 7:30:05	94	1. Ia nyelap katanjung teken I Nyoman	3	1
+05/04/2024 7:30:05	94	2. Ia nyelap tanjunga teken I Nyoman	3	2
+05/04/2024 7:30:05	94	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	4	3
+05/04/2024 7:30:05	94	4. Ia nyelap kalempag teken I Made	4	4
+05/04/2024 7:30:05	94	5. Ia nyelap lempaga teken I Made	4	5
+05/04/2024 7:30:05	94	6. Ia tusing kalempag kewala lempaga teken I Made	4	6
+05/04/2024 7:30:05	94	7. Da Nyoman lempaga	4	7
+05/04/2024 7:30:05	94	8. Da Nyoman kalempag	3	8
+05/04/2024 7:30:05	94	9. Da Made tanjunga	4	9
+05/04/2024 7:30:05	94	10. Da Made katanjung	3	10
+05/04/2024 7:30:05	94	11. Luune kasampatang makelone limang menit	2	11
+05/04/2024 7:30:05	94	12. Luune sampatanga makelone limang menit	2	12
+05/04/2024 7:30:05	94	13. Anake ento katinjak makelone duang detik	2	13
+05/04/2024 7:30:05	94	14. Anake ento tinjaka makelone duang detik	2	14
+05/04/2024 7:30:05	94	15. Anake ento katanjung makelone duang detik	3	15
+05/04/2024 7:30:05	94	16. Anake ento tanjunga makelone duang detik	3	16
+05/04/2024 7:30:05	94	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	3	17
+05/04/2024 7:30:05	94	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	2	18
+05/04/2024 7:30:05	94	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	3	19
+05/04/2024 7:30:05	94	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	2	20
+05/04/2024 7:30:05	94	21. Kuaca nika tumbasa antuk ida	3	21
+05/04/2024 7:30:05	94	22. Kuaca nika katumbas antuk ida	3	22
+05/04/2024 7:30:05	94	23. Montor nika kaadol antuk ida	3	23
+05/04/2024 7:30:05	94	24. Montor nika adola antuk ida	2	24
+05/04/2024 9:37:38	95	1. Ia nyelap katanjung teken I Nyoman	1	1
+05/04/2024 9:37:38	95	2. Ia nyelap tanjunga teken I Nyoman	5	2
+05/04/2024 9:37:38	95	3. Ia tusing katanjung kuwala tanjunga teken I Nyoman	5	3
+05/04/2024 9:37:38	95	4. Ia nyelap kalempag teken I Made	1	4
+05/04/2024 9:37:38	95	5. Ia nyelap lempaga teken I Made	1	5
+05/04/2024 9:37:38	95	6. Ia tusing kalempag kewala lempaga teken I Made	5	6
+05/04/2024 9:37:38	95	7. Da Nyoman lempaga	5	7
+05/04/2024 9:37:38	95	8. Da Nyoman kalempag	1	8
+05/04/2024 9:37:38	95	9. Da Made tanjunga	2	9
+05/04/2024 9:37:38	95	10. Da Made katanjung	1	10
+05/04/2024 9:37:38	95	11. Luune kasampatang makelone limang menit	1	11
+05/04/2024 9:37:38	95	12. Luune sampatanga makelone limang menit	5	12
+05/04/2024 9:37:38	95	13. Anake ento katinjak makelone duang detik	1	13
+05/04/2024 9:37:38	95	14. Anake ento tinjaka makelone duang detik	5	14
+05/04/2024 9:37:38	95	15. Anake ento katanjung makelone duang detik	1	15
+05/04/2024 9:37:38	95	16. Anake ento tanjunga makelone duang detik	5	16
+05/04/2024 9:37:38	95	17. Anake ento lempaga teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	5	17
+05/04/2024 9:37:38	95	18. Anake ento kalempag teken I Wayan pang maan pipis (ane ngelempag = ane maan pipis)	1	18
+05/04/2024 9:37:38	95	19. Anake ento tanjunga teken I Made pang maan upah (ane nanjung = ane maan upah)	5	19
+05/04/2024 9:37:38	95	20. Anake ento katanjung teken I Made pang maan upah (ane nanjung = ane maan upah)	1	20
+05/04/2024 9:37:38	95	21. Kuaca nika tumbasa antuk ida	5	21
+05/04/2024 9:37:38	95	22. Kuaca nika katumbas antuk ida	5	22
+05/04/2024 9:37:38	95	23. Montor nika kaadol antuk ida	1	23
+05/04/2024 9:37:38	95	24. Montor nika adola antuk ida	1	24

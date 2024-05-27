@@ -351,21 +351,32 @@ dev.off()
 ## 4. Grammaticality judgment ========
 
 ### 4.1 Load the results =======
-ratings <- read_tsv("acceptability.tsv") |> 
-  rename(Email = `Email Address`,
-         ParticipantNames = `Nama Lengkap`,
-         Department = `Program Studi`,
-         Univ = `Asal Universitas`)
+# ratings <- read_tsv("acceptability.tsv") |>
+#   rename(Email = `Email Address`,
+#          ParticipantNames = `Nama Lengkap`,
+#          Department = `Program Studi`,
+#          Univ = `Asal Universitas`) |> 
+#   mutate(ParticipantID = row_number())
+# 
+# ratingsLong <- ratings |>
+#   pivot_longer(cols = -c(Timestamp, Email, ParticipantNames,
+#                          NIM, Department, Univ, ParticipantID),
+#                names_to = "Sentences",
+#                values_to = "Rating") |>
+#   mutate(sentenceID = str_extract(Sentences, "^\\d+"),
+#          Sentences = str_replace_all(Sentences, "\\s+", " "),
+#          Sentences = str_replace_all(Sentences, "tangju", "tanju"))
 
-ratingsLong <- ratings |> 
-  pivot_longer(cols = -c(Timestamp, Email, ParticipantNames, 
-                         NIM, Department, Univ), 
-               names_to = "Sentences", 
-               values_to = "Rating") |> 
-  mutate(sentenceID = str_extract(Sentences, "^\\d+"),
-         Sentences = str_replace_all(Sentences, "\\s+", " "),
-         Sentences = str_replace_all(Sentences, "tangju", "tanju"))
+# ratingsLong |> 
+#   select(-Email, -ParticipantNames, -NIM, -Department, -Univ) |> 
+#   write_tsv("acceptability.tsv")
+# ratingsLong |> 
+#   select(-Email, -ParticipantNames, -NIM, -Department, -Univ) |> 
+#   write_rds("acceptability.rds")
 
+
+# ratingsLong <- read_tsv("acceptability.tsv")
+ratingsLong <- read_rds("acceptability.rds")
 verbs_rgx <- "(tanju|lempag|ampat|injak|umbas|adol)"
 
 # readxl::read_xlsx("Daftar-Stimulus.xlsx") |> 
