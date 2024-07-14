@@ -1,6 +1,7 @@
 Supplementary materials for “The (non-)canonical status of the *ka*-
 passive in Balinese”
 ================
+I Nyoman Udayana, Gede Primahadi Wijaya Rajeg, Ida Ayu Made Puspani
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
