@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Supplementary materials for “The (non-)canonical status of
+  the ka- passive in Balinese”
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: I Nyoman
+    family-names: Udayana
+    affiliation: Universitas udayana
+    email: nyoman_udayana@unud.ac.id
+    orcid: 'https://orcid.org/0000-0002-4784-0598'
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Universitas Udayana
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Ida Ayu Made
+    family-names: Puspani
+    email: made_puspani@unud.ac.id
+    affiliation: Universitas Udayana
+    orcid: 'https://orcid.org/0000-0002-0707-565X'
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/8H2AT
+    description: Open Science Framework
+  - type: url
+    value: 'https://github.com/cirhss/balinese-passive'
+    description: GitHub repository
+abstract: >-
+  A repository of analysis R code, data, tables and
+  graphical outputs underlying our co-authored paper on two
+  passive constructions in Balinese.
+keywords:
+  - Balinese
+  - Syntax
+  - Morphosyntax
+  - Morphology
+  - Voice alternation
+  - Passive construction
+  - Balinese Passive
+  - Canonical Passive
+license: CC-BY-NC-SA-4.0
+commit: adf3de1b2615d0890440ddb19369b316439b17d4
+version: 0.0.1
+date-released: '2024-12-27'
