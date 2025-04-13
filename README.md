@@ -1,4 +1,4 @@
-Supplementary materials for “The (non-)canonical status of the *ka*-
+Supplementary materials for “The (non)canonical status of the *ka*-
 passive in Balinese”
 ================
 I Nyoman Udayana
@@ -21,15 +21,57 @@ Ida Ayu Made Puspani
 This repository contains the corpus data and grammaticality judgement
 results underlying our paper on *ka*- and -*a* passives in Balinese. In
 addition, it includes R code file documenting steps for our statistical
-analyses and visualisation output. The paper has been peer-reviewed,
-accepted, and is to appear in [*Linguistics
-Vanguard*](https://www.degruyter.com/journal/key/lingvan/html).
+analyses and visualisation output. The paper [is
+published](https://doi.org/10.1515/lingvan-2023-0122) in [*Linguistics
+Vanguard*](https://www.degruyter.com/journal/key/lingvan/html). **Please
+consider the graphical erratum below**.
 
 ## How to cite
 
-> Udayana, I. N., Rajeg, G. P. W., & Puspani, I. A. M. (2024).
-> Supplementary materials for “The (non-)canonical status of the *ka*-
-> passive in Balinese” (Version 0.0.1) \[Computer software\].
-> <https://github.com/cirhss/balinese-passive>
+> Udayana, I Nyoman, Rajeg, Gede Primahadi Wijaya and Puspani, Ida Ayu
+> Made. “The (non)canonical status of the ka- passive in Balinese”
+> Linguistics Vanguard, 2025.
+> <https://doi.org/10.1515/lingvan-2023-0122>
+
+> Udayana, I Nyoman, Rajeg, Gede Primahadi Wijaya and Puspani, Ida Ayu
+> Made. “Supplementary materials for “The (non)canonical status of the
+> *ka*- passive in Balinese”” (Version 0.0.1) \[Computer software\],
+> 2024. <https://github.com/cirhss/balinese-passive>
 > <https://doi.org/10.5281/zenodo.14562720>
 > <https://doi.org/10.6084/m9.figshare.28100267.v1>
+
+# Erratum
+
+I (GPWR, the second author) would like to openly acknowledge, and offer
+an apology for, an error in Figure 7 of the [published
+manuscript](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2023-0122/html),
+**but not in the result of the statistical test** for the visualised
+data. In the [original code lines for the creation of Figure
+7](https://github.com/cirhss/balinese-passive/blob/a2f482b1c9c705242b31d5b3b05ebba0f67eddbf/analysis.r#L738-L769),
+I missed one line of code (should be [before this
+line](https://github.com/cirhss/balinese-passive/blob/a2f482b1c9c705242b31d5b3b05ebba0f67eddbf/analysis.r#L740))
+to filter the grammaticality data points for adverb of intention (§5.2.5
+in the published paper).
+
+The statistical (significance) tests (see the code lines
+[here](https://github.com/cirhss/balinese-passive/blob/a2f482b1c9c705242b31d5b3b05ebba0f67eddbf/analysis.r#L730-L736))
+already include the filtering to the data point tested for the adverb of
+intention *nyelap* ([this
+line](https://github.com/cirhss/balinese-passive/blob/a2f482b1c9c705242b31d5b3b05ebba0f67eddbf/analysis.r#L734)).
+Therefore, the statistical result for this intentionality dimension
+still holds.
+
+The correct Figure 7, after including [this missing line of
+code](https://github.com/cirhss/balinese-passive/commit/9164468070a4c528c20a54d7e9762369c593da1e#r155304231)
+in [the revised plotting
+code](https://github.com/cirhss/balinese-passive/blob/9164468070a4c528c20a54d7e9762369c593da1e/analysis.r#L738-L770),
+is shown below.
+
+``` r
+knitr::include_graphics("figs/04-6-violin-plot-for-ADVERB-OF-INTENTION-erratum.png")
+```
+
+<img src="figs/04-6-violin-plot-for-ADVERB-OF-INTENTION-erratum.png" width="70%" />
+
+Once again, my (GPWR) sincere apology for this error and inaccuracy,
+which is solely my responsibility.
