@@ -737,6 +737,7 @@ ratingsLong |>
 
 #### 4.6.1 violin plot ====
 ratingsLong |> 
+  filter(str_detect(adverb_phrase, "^nyelap")) |> 
   mutate(passive_type = if_else(passive_type == "a", "-a", "ka-"),
          passive_type = factor(passive_type, levels = c("-a", "ka-"))) |> 
   ggplot(aes(x = passive_type, y = Rating)) +
@@ -761,7 +762,7 @@ ratingsLong |>
         axis.title.y = element_text(size = 16),
         plot.caption = element_text(size = 12),
         strip.text.x.top = element_text(size = 14))
-ggsave(filename = "figs/04-6-violin-plot-for-ADVERB-OF-INTENTION.png", 
+ggsave(filename = "figs/04-6-violin-plot-for-ADVERB-OF-INTENTION-erratum.png", 
        height = 7, 
        width = 7, 
        units = "in",
